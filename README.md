@@ -1,62 +1,116 @@
-# SAHARA Benchmark
-<p align="center">
-    <br>
-    <img src="https://africa.dlnlp.ai/sahara/img/sahara_web_main.jpg" width="100%"/>
-    <br>
-    
-<p>
-<div align="center">
+# Sahara Benchmark
 
-[![ACL Paper](https://img.shields.io/badge/ACL-2025-003693.svg)](https://aclanthology.org/2025.acl-long.1572/)
-[![Website](https://img.shields.io/badge/Website-Official-blue)](https://africa.dlnlp.ai/sahara)
-[![HuggingFace Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face%20Dataset-Sahara_Benchmark-yellow)](https://huggingface.co/datasets/UBC-NLP/sahara_benchmark)
-[![HuggingFace Leaderboard](https://img.shields.io/badge/🤗%20Hugging%20Face%20Space-Sahara_Leaderboards-yellow)](https://huggingface.co/spaces/UBC-NLP/sahara)
+This repository contains the code for running the Sahara benchmark across LLM models. The included evaluation launcher uses vLLM to evaluate a Hugging Face model on the complete set of Sahara tasks and saves the model generations for each task.
 
-</div>
+## Prerequisites
 
-Sahara is a comprehensive benchmark for African NLP, part of our ACL 2025 paper, "[Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/)". Africa's rich linguistic heritage remains underrepresented in NLP, largely due to historical policies that favor foreign languages and create significant data inequities. In the paper, we integrate theoretical insights on Africa's language landscape with an empirical evaluation using Sahara. Sahara is curated from large-scale, publicly accessible datasets capturing the continent's linguistic diversity. By systematically assessing the performance of leading large language models (LLMs) on Sahara, we demonstrate how policy-induced data variations directly impact model effectiveness across African languages. Our findings reveal that while a few languages perform reasonably well, many Indigenous languages remain marginalized due to sparse data. Sahara supports an impressive 517 languages and varieties, across 16 tasks, making it the most extensive and representative benchmark for African NLP.
+Before starting, make sure that you have:
 
+- Git and [`uv`](https://docs.astral.sh/uv/) installed.
+- A Linux machine with NVIDIA GPUs and a working CUDA driver.
+- Access to the model that you want to evaluate on Hugging Face.
+- Access to the gated [`UBC-NLP/sahara_benchmark`](https://huggingface.co/datasets/UBC-NLP/sahara_benchmark) dataset. Request access from its Hugging Face page before running the evaluation.
 
-**Official Website** [Sahara Official Website](https://africa.dlnlp.ai/sahara)\
-**Paper:** [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/) \
-**Leaderboards** [Sahara Leaderboards](https://huggingface.co/spaces/UBC-NLP/sahara)\
-**GITHUB:** [https://github.com/UBC-NLP/sahara](https://github.com/UBC-NLP/sahara)\
-**Documentations:** [https://sahara-benchmark.readthedocs.io/en/latest](https://sahara-benchmark.readthedocs.io/en/latest)\
+The supplied launcher is configured to expose GPUs `0,1,2,4`, use all visible GPUs for vLLM tensor parallelism, and store downloaded files in `/workspace/.cache`. If your machine has a different GPU layout or cache location, update `CUDA_VISIBLE_DEVICES` or `cache_dir` in `evaluation_scripts/evaluate_sahara.sh` before running it.
 
+## Usage
 
+### 1. Clone the repository
 
-## How to Use the Dataset
-
-You can easily load and explore the SAHARA benchmark using the `datasets` library from Hugging Face.
-
-> [!IMPORTANT]
-> All information about usage, the evaluation, and the scoring system is available on the [official website](https://ubc-nlp.github.io/sahara/).
-
-## Citation
-
-If you use the Sahara benchmark for your scientific publication, or if you find the resources in this website useful, please cite our paper.
-
-```bibtex
-
-@inproceedings{adebara-etal-2025-evaluating,
-    title = "Where Are We? Evaluating {LLM} Performance on {A}frican Languages",
-    author = "Adebara, Ife  and
-      Toyin, Hawau Olamide  and
-      Ghebremichael, Nahom Tesfu  and
-      Elmadany, AbdelRahim A.  and
-      Abdul-Mageed, Muhammad",
-    editor = "Che, Wanxiang  and
-      Nabende, Joyce  and
-      Shutova, Ekaterina  and
-      Pilehvar, Mohammad Taher",
-    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    month = jul,
-    year = "2025",
-    address = "Vienna, Austria",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.acl-long.1572/",
-    pages = "32704--32731",
-    ISBN = "979-8-89176-251-0",
-}
-
+```bash
+git clone https://github.com/jim-junior/sahara.git
+cd sahara
 ```
+
+### 2. Create and activate an environment
+
+Using a virtual environment keeps the benchmark dependencies isolated:
+
+```bash
+uv venv
+source .venv/bin/activate
+```
+
+### 3. Install the dependencies
+
+Run the following commands in the exact order shown:
+
+```bash
+uv pip install numpy pandas scikit-learn datasets evaluate tenacity \
+    openai anthropic torch transformers httpx \
+    huggingface_hub sacrebleu rouge_score bert_score seqeval editdistance bitsandbytes accelerate
+```
+
+Then:
+
+```bash
+uv pip install "datasets<3.0.0"
+```
+
+Then:
+
+```bash
+uv pip uninstall vllm torch torchvision torchaudio \
+    xformers flash-attn triton
+```
+
+Then:
+
+```bash
+uv cache clean
+```
+
+Then:
+
+```bash
+uv pip install vllm --torch-backend=auto
+```
+
+### 4. Log in to Hugging Face
+
+Lastly, authenticate with the Hugging Face account that has access to the benchmark dataset and the model:
+
+```bash
+huggingface-cli login
+```
+
+Paste your Hugging Face access token when prompted.
+
+### 5. Run the benchmark
+
+The evaluation script uses `Sunbird/Sunflower-Qwen3.5-9B` by default. Run it from the `evaluation_scripts` directory:
+
+```bash
+cd evaluation_scripts
+./evaluate_sahara.sh
+```
+
+To evaluate a different Hugging Face model, pass its model ID with `-m`:
+
+```bash
+./evaluate_sahara.sh -m organization/model-name
+```
+
+The launcher evaluates these tasks:
+
+- Text classification: `news`, `sentiment`, `topic`, `xlni`, and `lid`
+- Text generation: `title`, `summary`, and `paraphrase`
+- Machine translation: `mt_eng2xx`, `mt_fra2xx`, and `mt_xx2xx`
+- Knowledge, reasoning, and question answering: `mmlu`, `mgsm`, `belebele`, and `squad_qa`
+- Token-level tasks: `phrase`, `pos`, and `ner`
+
+The full benchmark can take a long time and requires enough aggregate GPU memory to load the selected model with an 8,192-token context window. The launcher processes examples with a batch size of `1000`.
+
+## Outputs
+
+For a model ID such as `Sunbird/Sunflower-Qwen3.5-9B`, `/` and `-` are replaced with underscores when the output directory is created. Results are written relative to `evaluation_scripts/` as follows:
+
+```text
+outputs/
+└── Sunbird_Sunflower_Qwen3.5_9B/
+    ├── <task>_generation.json
+    └── csv/
+        └── <task>_generation.csv
+```
+
+Each `<task>_generation.json` file contains one JSON object per line with the language code, generated answer, and example ID. The CSV files additionally retain prompts and raw model generations for inspection.
