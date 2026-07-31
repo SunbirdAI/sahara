@@ -1,0 +1,1000 @@
+{"lang_code":"ibo","generation":"CD NNC V PREP NNC PRN VAX V NNC CJN V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"0"}
+{"lang_code":"ibo","generation":"PREP NNC PRN V V NNC PREP NNC V V NNC NNC","example_id":"1"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN NNC PRN V NNC PREP NNC PRN V SYM NNC V V PRN V NNC SYM NNC V V PRN V NNC","example_id":"2"}
+{"lang_code":"ibo","generation":"NNP V NNC CD ADJ V PRN V NNC V NNC V NNC","example_id":"3"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC DEM NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"4"}
+{"lang_code":"ibo","generation":"NNC V V PRN SYM V V PREP NNC DEM V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"5"}
+{"lang_code":"ibo","generation":"CD VPERF_XS WH V V V PRN V NNC V V NNC V V PRN V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"6"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V V NNC V NNC DEM PRN NNC PREP NNC NNC V V NNC V SYM V NNC NNC NNC NNC NNC NNC SYM","example_id":"7"}
+{"lang_code":"ibo","generation":"NNC V V ADJ PREP NNC SYM NNP","example_id":"8"}
+{"lang_code":"ibo","generation":"CD NNC PRN V NNC DEM PRN V NNC NNC V NNC PREP NNC SYM V SYM NNC PRN V NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"9"}
+{"lang_code":"ibo","generation":"CD CJN V NNC NNC PREP NNC SYM V NNC NNC NNC PREP NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"10"}
+{"lang_code":"ibo","generation":"CD PREP NNC PRN V NNC PREP NNC SYM V V V V V V","example_id":"11"}
+{"lang_code":"ibo","generation":"PREP NNC V V NNC CJN PRN V V NNC PREP NNC V V NNC NNC V V NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNP SYM","example_id":"12"}
+{"lang_code":"ibo","generation":"PREP NNC NNC PRN V V V NNC V V NNC V NNC NNC NNC NNC NNC NNC V V NNC","example_id":"13"}
+{"lang_code":"ibo","generation":"PRN V V NNC SYM NNC VAX V NNC CJN NNC VAX V NNC NNC VAX V NNC V NNC V V V NNC V V NNC V NNC","example_id":"14"}
+{"lang_code":"ibo","generation":"PRN V PRN SYM V PRN PREP NNC PREP NNC CJN DEM V PRN V PRN V PRN V PRN V SYM PRN V PRN SYM","example_id":"15"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC CD PRN V V NNC SYM PRN V V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"16"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC V V NNC V NNC SYM NNC NNC NNC V NNC NNC SYM NNC NNC NNC V NNC NNC SYM NNC NNC NNC V NNC NNC SYM","example_id":"17"}
+{"lang_code":"ibo","generation":"CD PRN SYM NNC V V NNC PRN V NNC PREP NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"18"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC NNC V NNC PRN NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"19"}
+{"lang_code":"ibo","generation":"NNC NNC V V NNC ADJ NNC CD CD VAX V","example_id":"20"}
+{"lang_code":"ibo","generation":"CD NNC DEM PRN V PREP NNP , PRN DEM V V V V NNC , CJN PRN V V NNC .","example_id":"21"}
+{"lang_code":"ibo","generation":"CD CJN NNC PRN VPERF NNC DEM PRN V V PRN V V NNC PRN SYM V NNC NNC V NNC NNC V NNC NNC V NNC V NNC V NNC V NNC V NNC","example_id":"22"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V PRN SYM PRN V V SYM","example_id":"23"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC V V NNC NNC NNC","example_id":"24"}
+{"lang_code":"ibo","generation":"CD PREP NNC V V V NNC V NNC NNC NNC NNC NNC NNC","example_id":"25"}
+{"lang_code":"ibo","generation":"CD PREP NNC CD PRN VPERF_XS NNC CD VPERF_XS NNC PRN VPERF_XS NNC CD VPERF_XS NNC NNC SYM","example_id":"26"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC NNC NNC SYM V NNC ADJ NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"27"}
+{"lang_code":"ibo","generation":"CD CONJ ADV V NNC CD NNC V V NNC NNC NNC NNC NNC NNC V V NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"28"}
+{"lang_code":"ibo","generation":"PRN V NNC PRN V NNC DEM NNC SYM NNP SYM NNP NNC PRN V NNC PRN V NNC NNC NNC NNC V V NNC PRN NNC NNC NNC NNC","example_id":"29"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN VAX V V NNC PRN","example_id":"30"}
+{"lang_code":"ibo","generation":"NNC NNC V SYM NNC DEM V NNP SYM CJN NNC V SYM NNP VAX VPP PREP NNC V V","example_id":"31"}
+{"lang_code":"ibo","generation":"NNC V V NNC PRN V","example_id":"32"}
+{"lang_code":"ibo","generation":"PRN V VPRN PRN SYM V NNC V V NNC PRN V NNC NNC CJN NNC PRN V NNC NNC NNC","example_id":"33"}
+{"lang_code":"ibo","generation":"CD CONJ NNP VPRF NNC NNC SYM V SYM WH DEM V VAXPRN PREP NNC V V NNC NNC SYM","example_id":"34"}
+{"lang_code":"ibo","generation":"PREP NNC NNC NNC NNC NNC V V PRN V V V NNC NNC NNC NNC NNC","example_id":"35"}
+{"lang_code":"ibo","generation":"CD PRN V NNC V V NNC NNC V NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"36"}
+{"lang_code":"ibo","generation":"CD NNP NNP V SYM V PRN NNP NNC NNC NNC NNC SYM","example_id":"37"}
+{"lang_code":"ibo","generation":"V V NNC V V NNC NNC NNC PRN V NNC NNC NNC PRN V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"38"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC NNC ADJ V V NNC NNC NNC V V NNC NNC NNC V V NNC NNC NNC V V NNC NNC NNC V V NNC NNC NNC V V NNC NNC NNC V V NNC NNC NNC","example_id":"39"}
+{"lang_code":"ibo","generation":"NNC CD PRN V V V NNC V","example_id":"40"}
+{"lang_code":"ibo","generation":"CD PREP NNC ADJ DEM DEM SYM PREP NNC SYM V V NNC DEM PRN V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"41"}
+{"lang_code":"ibo","generation":"CD V V V V V PREP NNC V V PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"42"}
+{"lang_code":"ibo","generation":"NNC NNC V V PREP NNC NNC NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"43"}
+{"lang_code":"ibo","generation":"CD PRN V NNC NNC NNC CD NNC NNC NNC NNC NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"44"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC V NNC PRN NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"45"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN V V PRN NNC NNC V NNC NNC NNC NNC NNC NNC V NNC NNC NNC V NNC SYM","example_id":"46"}
+{"lang_code":"ibo","generation":"CD NNC DEM NNC V V NNC V NNC NNC PREP NNC V V NNC V NNC NNC SYM DEM V SYM PRN V V PRN V V NNC NNC V V PRN V V NNC NNC V V NNC NNC SYM","example_id":"47"}
+{"lang_code":"ibo","generation":"CD V NNC DEM V CJN PRN PRN V PRN DEM V V NNC V NNC NNC V NNC NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"48"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V NNC DEM NNC V V NNC V NNC V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"49"}
+{"lang_code":"ibo","generation":"NNC V NNC NNC NNC NNC V NNC V NNC NNC NNC NNC","example_id":"50"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN V PRN NNC NNC NNC V PREP NNC V V V V SYM NNC NNC NNP V NNC PRN V V V SYM","example_id":"51"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PREP NNC VPRF NNC V V NNC SYM V V PRN V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SYM V NNC SY","example_id":"52"}
+{"lang_code":"ibo","generation":"CD NNC NNC CD","example_id":"53"}
+{"lang_code":"ibo","generation":"CD NNC VPRF PRN SYM V V PRN V V SYM NNP VPRF PRN SYM V PRN SYM V V PRN V V SYM V V PRN V V SYM","example_id":"54"}
+{"lang_code":"ibo","generation":"CD SYM V NNC NNC PRN V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC","example_id":"55"}
+{"lang_code":"ibo","generation":"PREP NNC V NNC NNC V V NNC NNC NNC","example_id":"56"}
+{"lang_code":"ibo","generation":"CD NNC PRN V V NNC V SYM NNC V V PRN V SYM","example_id":"57"}
+{"lang_code":"ibo","generation":"CD V PREP NNC DEM V V NNC PRN VPERF NNC V V V V NNC V V NNC","example_id":"58"}
+{"lang_code":"ibo","generation":"CD V V NNC DEM PRN V NNC DEM PRN V NNC DEM CJN DEM PRN V NNC DEM PREP NNC PRN V NNC SYM V NNC PREP NNC SYM","example_id":"59"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"60"}
+{"lang_code":"ibo","generation":"NNC NNC NNC NNC V V PREP NNC DEM NNC V NNC V V NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"61"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC DEM PRN V NNC NNC V V SYM PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"62"}
+{"lang_code":"ibo","generation":"CD PRN V PREP NNC V V PREP NNC NNC V V PREP NNC PRN SYM","example_id":"63"}
+{"lang_code":"ibo","generation":"CD NNC V V NNC NNC DEM PRN V V PRN V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"64"}
+{"lang_code":"ibo","generation":"CD NNC V V NNC PRN V NNC ADV V NNC ADV","example_id":"65"}
+{"lang_code":"ibo","generation":"CD V V V NNC NNC PREP NNC ADJ PREP NNC ADJ PREP NNC ADJ V V V NNC ADJ PREP NNC SYM","example_id":"66"}
+{"lang_code":"ibo","generation":"PREP NNC NNC DEM PRN V NNC V NNC V NNC CJN PRN V V","example_id":"67"}
+{"lang_code":"ibo","generation":"CD PREP NNC V NNP V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"68"}
+{"lang_code":"ibo","generation":"CD NNC V PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"69"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC QTF SYM PRN V V PRN NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V","example_id":"70"}
+{"lang_code":"ibo","generation":"PRN V V NNC NNC V V PRN NNC PREP V V PRN V PREP NNC V V NNC SYM","example_id":"71"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM NNC V NNC ADJ V NNC V NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"72"}
+{"lang_code":"ibo","generation":"CD CONJ ADV PREP NNC NNC NNC NNC NNC VPERF NNC VPERF NNC PRN VPERF NNC NNC SYM","example_id":"73"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN NNC DEM NNC V NNC NNC NNC V NNC NNC V NNC NNC NNC NNC V NNC NNC NNC V NNC NNC NNC V NNC NNC","example_id":"74"}
+{"lang_code":"ibo","generation":"CD NNP VPP PREP NNC NNC V V NNC V V NNC PREP NNC NNC NNC NNC NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"75"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V NNC DEM NNC V NNC PRN V V NNC PRN V V NNC NNC SYM PRN V V NNC PRN V NNC NNC SYM PRN V NNC PRN V NNC NNC SYM PRN V NNC PRN V NNC NNC SYM","example_id":"76"}
+{"lang_code":"ibo","generation":"PRN ADV PREP NNC V V V NNC V NNC NNC V NNC NNC V V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"77"}
+{"lang_code":"ibo","generation":"NNC V V NNC NNC NNC V V V NNC","example_id":"78"}
+{"lang_code":"ibo","generation":"CD NNC NNC V SYM V NNC NNP V NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"79"}
+{"lang_code":"ibo","generation":"NNC NNC NNC V V CD PRN V PREP NNC SYM V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"80"}
+{"lang_code":"ibo","generation":"NNC NNC VAX PREP NNC NNC CJN V V PREP NNC NNC CJN V V PRN VAX VPP NNC V V NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"81"}
+{"lang_code":"ibo","generation":"CD NNC VPERF PREP NNC V V V V NNC CJN PRN V NNC NNC NNC NNC NNC V V NNC","example_id":"82"}
+{"lang_code":"ibo","generation":"PREP NNC NNC NNC NNC NNC PRN PREP NNC SYM PRN V V NNC NNC V V PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"83"}
+{"lang_code":"ibo","generation":"CD V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC","example_id":"84"}
+{"lang_code":"ibo","generation":"CD LTT NNP V NNC PREP NNC NNC NNC NNC","example_id":"85"}
+{"lang_code":"ibo","generation":"CD NNC V V V NNC V V V V NNC PREP NNC NNC PREP NNC NNC PREP NNC","example_id":"86"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC NNC V SYM PRN V V NNC NNC CD NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"87"}
+{"lang_code":"ibo","generation":"CD PRN V NNC DEM SYM V PRN V V NNC NNC SYM","example_id":"88"}
+{"lang_code":"ibo","generation":"PRN NNP V NNC V","example_id":"89"}
+{"lang_code":"ibo","generation":"CD CJN NNC DEM V V V DEM V NNC CJN NNC V V SYM V SYM PRN V NNC DEM V V SYM V V SYM V V SYM V V V V V","example_id":"90"}
+{"lang_code":"ibo","generation":"NNP V PRN V NNC NNC PREP NNC CJN PRN V NNC V NNC ADJ SYM","example_id":"91"}
+{"lang_code":"ibo","generation":"CD PRN NNC PRN NNC V NNC NNC NNC NNP V PRN SYM V PRN V V NNC NNC NNC NNC NNC NNC NNC","example_id":"92"}
+{"lang_code":"ibo","generation":"CD V V PRN V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"93"}
+{"lang_code":"ibo","generation":"PREP NNC VAX PRN NNC CJN PRN V V NNC V NNC V NNC V V V V V V V V V V V V","example_id":"94"}
+{"lang_code":"ibo","generation":"PRN NNC V NNC SYM PRN NNC NNC V NNC V PREP NNC NNC SYM","example_id":"95"}
+{"lang_code":"ibo","generation":"NNC DEM V NNC NNC NNC","example_id":"96"}
+{"lang_code":"ibo","generation":"CD PRN V NNC SYM PREP NNC SYM V NNC V V PRN V V V","example_id":"97"}
+{"lang_code":"ibo","generation":"CD PRN V PREP NNC DEM V V NNP NNC V PREP NNC SYM V PREP NNC SYM V NNC V NNC NNC V NNC PREP NNC SYM","example_id":"98"}
+{"lang_code":"ibo","generation":"NNC VAX V NNC CJN PRN V V PRN NNC","example_id":"99"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC NNC NNC V PREP NNC NNC NNC V V V PRN V NNC SYM","example_id":"100"}
+{"lang_code":"ibo","generation":"NNC NNC NNC CD NNC CD SYM","example_id":"101"}
+{"lang_code":"ibo","generation":"NNC NNC V V PREP PREP NNC V V NNC V V NNC V NNC V NNC","example_id":"102"}
+{"lang_code":"ibo","generation":"CD PRN NNC PRN V PREP NNC PRN V V V NNC V NNC V NNC NNC V NNC NNC","example_id":"103"}
+{"lang_code":"ibo","generation":"NNC ADV SYM PREP NNC VPERF NNC V V V PRN V V V NNC","example_id":"104"}
+{"lang_code":"ibo","generation":"CD NNC DEM V NNC NNP PRN PREP NNC NNC PREP PREP NNC NNC ; PRN V V PRN V V NNC NNC NNC NNC NNC NNC SYM","example_id":"105"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC V V PRN V V NNC","example_id":"106"}
+{"lang_code":"ibo","generation":"CD PRN V NNC PREP NNC NNC DEM V V PREP NNC NNC SYM NNC NNC NNC PREP NNC NNC NNC NNC","example_id":"107"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC PREP NNC NNC V NNC PREP NNC CD CD V V NNC NNC NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"108"}
+{"lang_code":"ibo","generation":"CD PREP NNC V V NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"109"}
+{"lang_code":"ibo","generation":"CD SYM WH V CJN PRN CJN NNP NNC NNC SYM V V PRN NNC SYM V NNC NNC NNC SYM","example_id":"110"}
+{"lang_code":"ibo","generation":"NNC V V PREP NNC V NNC","example_id":"111"}
+{"lang_code":"ibo","generation":"PREP NNC VAX_XS ADV PRN NNC NNC V V PREP NNC PREP NNC","example_id":"112"}
+{"lang_code":"ibo","generation":"PRN NNC NNC V V SYM","example_id":"113"}
+{"lang_code":"ibo","generation":"PRN PRN V NNC V NNC V NNC NNC NNC SYM","example_id":"114"}
+{"lang_code":"ibo","generation":"CD NNC NNC V PRN ADV SYM NNC CD SYM V SYM V NNC V NNC NNC SYM","example_id":"115"}
+{"lang_code":"ibo","generation":"PRN NNC V V NNC NNC V NNC V NNC NNC PREP NNC PRN VPRN PRN NNC V NNC NNC SYM","example_id":"116"}
+{"lang_code":"ibo","generation":"CD PRN V NNC NNC ADJ ADJ ADJ V V PRN PREP NNC ADJ NNC CJN NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"117"}
+{"lang_code":"ibo","generation":"CD NNC NNP CD","example_id":"118"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC PRN V V V V NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"119"}
+{"lang_code":"ibo","generation":"NNC SYM PREP NNC SYM NNC NNC ADJ V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"120"}
+{"lang_code":"ibo","generation":"CD INTJ NNC V NNC CD NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"121"}
+{"lang_code":"ibo","generation":"CD NNC VPERF_XS NNC V V NNC V V NNC SYM","example_id":"122"}
+{"lang_code":"ibo","generation":"PRN NNC PREP NNC DEM PRN V V PREP NNC V V NNC V V NNC NNC NNC NNC NNC","example_id":"123"}
+{"lang_code":"ibo","generation":"CD V V PRN NNC NNC CD V SYM V SYM SYM NNC DEM NNC NNC NNC PREP NNC ADJ ADJ SYM V V V V PRN V V V SYM","example_id":"124"}
+{"lang_code":"ibo","generation":"PRN V V V NNC CD NNC SYM","example_id":"125"}
+{"lang_code":"ibo","generation":"CD VAX NNC PRN V NNC NNC NNC NNC V PRN V NNC NNC V NNC NNC V NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"126"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC PRN NNC V NNC","example_id":"127"}
+{"lang_code":"ibo","generation":"CD NNC V V NNC SYM V NNC NNC V NNC V NNC","example_id":"128"}
+{"lang_code":"ibo","generation":"NNC PRN V V NNC NNC V NNC NNC NNC","example_id":"129"}
+{"lang_code":"ibo","generation":"CD V SYM SYM V SYM SYM V NNC V NNC CJN PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"130"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC PREP NNC DEM NNC V V PRN CD NNC V V PRN V V PRN V V","example_id":"131"}
+{"lang_code":"ibo","generation":"NNC DEM_XS NNC V V NNC PRN NNC V V V PRN NNC V V V PRN NNC V V V","example_id":"132"}
+{"lang_code":"ibo","generation":"CD V NNC PREP NNC SYM PRN NNC CD CD NNC V V PRN V NNC V NNC NNC NNC NNC","example_id":"133"}
+{"lang_code":"ibo","generation":"NNP CD","example_id":"134"}
+{"lang_code":"ibo","generation":"CD CONJ NNC NNC V V NNC V V PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"135"}
+{"lang_code":"ibo","generation":"CD V NNC NNC V V V V V PREP NNC NNC V V V V V V","example_id":"136"}
+{"lang_code":"ibo","generation":"CD CONJ NNC DEM PRN V V NNC PREP CD NNC V V NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"137"}
+{"lang_code":"ibo","generation":"NNC ADJ NNC NNC V V NNC V V V NNC V V NNC","example_id":"138"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC PREP NNC NNC NNC NNC NNC PRN PREP NNC VPERF NNC NNC NNC NNC PRN V V NNC NNC NNC PREP NNC","example_id":"139"}
+{"lang_code":"ibo","generation":"CD CONJ DEM NNC V V NNC V NNC V V NNC V V NNC PREP NNC CONJ PREP NNC","example_id":"140"}
+{"lang_code":"ibo","generation":"CD PRN V NNC DEM SYM V PRN V V NNC NNC SYM","example_id":"141"}
+{"lang_code":"ibo","generation":"CD PREP NNC DEM V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"142"}
+{"lang_code":"ibo","generation":"NNC SYM PREP NNC SYM NNC NNC ADJ V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"143"}
+{"lang_code":"ibo","generation":"PRN NNC SYM PRN NNC V V NNC ADJ DEM V","example_id":"144"}
+{"lang_code":"ibo","generation":"PRN V NNC V NNC ADJ NNC CJN NNC NNC V CD","example_id":"145"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC PREP NNC NNC DEM","example_id":"146"}
+{"lang_code":"ibo","generation":"PRN V V SYM NNP NNC V V SYM","example_id":"147"}
+{"lang_code":"ibo","generation":"INTJ PRN V V NNC V NNC NNC ADJ NNC V V V NNC V NNC PREP NNC NNC ADJ NNC V NNC NNC NNC NNC NNC V V NNC","example_id":"148"}
+{"lang_code":"ibo","generation":"SYM NNC SYM V NNC PRN NNC SYM","example_id":"149"}
+{"lang_code":"ibo","generation":"PRN V SYM SYM SYM PREP NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"150"}
+{"lang_code":"ibo","generation":"CD PRN V V PRN NNC NNC NNC NNC V SYM PREP PRN V PREP NNC NNC NNC NNC PRN V V V NNC NNC NNC NNC NNC NNC NNC","example_id":"151"}
+{"lang_code":"ibo","generation":"NNP V PRN SYM V PRN V SYM CJN PRN V V PRN V V PRN V V PRN V V NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"152"}
+{"lang_code":"ibo","generation":"CD PRN VAXPRN NNC DEM CJN PRN VPERF","example_id":"153"}
+{"lang_code":"ibo","generation":"CD NNP V V PRN SYM V PREP NNC V SYM SYM PREP NNC V SYM V V V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"154"}
+{"lang_code":"ibo","generation":"PREP NNC CJN PRN VPERF_BPRN NNC NNC NNC V V NNC PREP NNC NNC CD","example_id":"155"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC NNC","example_id":"156"}
+{"lang_code":"ibo","generation":"PRN V NNC V NNC V NNC PREP NNC CJN PRN V V PRN V NNC V NNC SYM","example_id":"157"}
+{"lang_code":"ibo","generation":"CD PRN V NNP V NNC PREP NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"158"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V ADJ CJN PRN V SYM DEM NNC PRN NNC NNC CJN PRN V V NNC NNC V NNC NNC NNC NNC V NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"159"}
+{"lang_code":"ibo","generation":"CD INTJ NNC NNC PRN V NNC NNC V NNC PRN V NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"160"}
+{"lang_code":"ibo","generation":"CD WH NNC PRN NNC V V NNC V NNC PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"161"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"162"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC V NNC V NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC V V V NNC V V V V V V V","example_id":"163"}
+{"lang_code":"ibo","generation":"PRN V PREP NNC V NNC V NNC CD V NNC V NNC NNC V PREP NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"164"}
+{"lang_code":"ibo","generation":"CD LTT V V NNC V NNP NNQ NNQ CJN PRN V NNC NNC NNC PREP NNC NNC V NNC ;","example_id":"165"}
+{"lang_code":"ibo","generation":"CD NNC DEM V NNC PREP NNP PREP NNC SYM NNC NNC V V NNC","example_id":"166"}
+{"lang_code":"ibo","generation":"NNC V NNC NNC V V V NNC DEM V V SYM","example_id":"167"}
+{"lang_code":"ibo","generation":"PRN NNC V NNC SYM PRN NNC NNC V NNC V PREP NNC NNC SYM","example_id":"168"}
+{"lang_code":"ibo","generation":"PRN V NNC V NNC PRN V V PRN NNC V V V","example_id":"169"}
+{"lang_code":"ibo","generation":"NNC V V CJN PRN V V PRN V NNC V NNC PREP NNC V NNC V NNC V NNC V NNC","example_id":"170"}
+{"lang_code":"ibo","generation":"CD CONJ PRN PREP NNC DEM PRN V V PRN V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"171"}
+{"lang_code":"ibo","generation":"WH VAX V NNC NNC V NNC PRN V NNC NNC NNC V NNC NNC NNC","example_id":"172"}
+{"lang_code":"ibo","generation":"CD CONJ NNC NNC V V PRN V NNC NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"173"}
+{"lang_code":"ibo","generation":"CD CJN PRN NNC NNC NNC V NNC NNC NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"174"}
+{"lang_code":"ibo","generation":"CD PRN V NNC V V PRN V V PREP NNC NNC NNC SYM V NNC NNC NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"175"}
+{"lang_code":"ibo","generation":"PRN V V NNC PRN NNC V NNC NNC","example_id":"176"}
+{"lang_code":"ibo","generation":"CD V NNC CD NNC CD NNC V NNC V NNC PREP NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"177"}
+{"lang_code":"ibo","generation":"NNC NNC NNC PREP NNC PREP PRN NNC NNC VAX","example_id":"178"}
+{"lang_code":"ibo","generation":"CD V V NNC SYM NNP NNC NNC V NNC V NNC NNC V NNC","example_id":"179"}
+{"lang_code":"ibo","generation":"PREP NNC NNC DEM NNC NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC NNC SYM","example_id":"180"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN V V PRN NNC NNC V V SYM PRN V SYM PREP VAX VPRN NNC V NNC NNC NNC SYM","example_id":"181"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PREP NNC SYM PRN V PRN V NNC NNC NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"182"}
+{"lang_code":"ibo","generation":"CD NNC V NNC ADJ V NNC V NNC PRN PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"183"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNC DEM V NNC NNC V NNC V NNC PRN V V NNC NNC CD NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"184"}
+{"lang_code":"ibo","generation":"CD V NNC NNC PREP NNC PREP NNC NNC NNC NNC V NNC V NNC PREP NNC V NNC NNC V V NNC NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"185"}
+{"lang_code":"ibo","generation":"CD PRN V SYM V NNC NNC NNC NNC V V NNC V SYM","example_id":"186"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC PRN NNC NNC NNC V V NNC CD CD PREP NNC SYM","example_id":"187"}
+{"lang_code":"ibo","generation":"PRN V NNP VPP PRN VSI NNC","example_id":"188"}
+{"lang_code":"ibo","generation":"CD LTT V V NNC DEM PRN V NNC NNC PREP NNC CJN V V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC","example_id":"189"}
+{"lang_code":"ibo","generation":"PRN V NNC CJN V NNC NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"190"}
+{"lang_code":"ibo","generation":"PRN VAX VPP PREP NNC NNC NNC PRN VAX VPP PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"191"}
+{"lang_code":"ibo","generation":"CD CONJ NNC PRN NNC NNC NNC VPRF PREP NNC PRN V V CONJ PRN V V PREP NNC PRN V NNC PREP NNC NNC","example_id":"192"}
+{"lang_code":"ibo","generation":"CD NNC DEM V V ADV NNC CJN NNC V V SYM SYM NNP V SYM SYM WH V PRN PRN V V SYM","example_id":"193"}
+{"lang_code":"ibo","generation":"PRN NNC V V V NNC ADJ PREP PRN NNC NNC V V PRN NNC NNC V V PRN NNC V SYM WH V V NNC NNC SYM","example_id":"194"}
+{"lang_code":"ibo","generation":"PRN NNC V V V NNC CD NNC PREP NNC V NNC NNC NNC V","example_id":"195"}
+{"lang_code":"ibo","generation":"PRN V V NNC DEM NNC V V NNC V PRN V V NNC PREP NNC V V NNC","example_id":"196"}
+{"lang_code":"ibo","generation":"CD NNC PRN CJN PRN V V NNC V V V V V SYM WH V NNC DEM NNC CJN NNC V NNC SYM WH V PRN V V PRN NNC SYM","example_id":"197"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC PREP NNC NNC CJN V NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"198"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC PREP NNC NNC CJN V NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"199"}
+{"lang_code":"ibo","generation":"CD CONJ NNC DEM V NNC PRN V PREP NNC CONJ NNC PRN V PREP NNC V V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"200"}
+{"lang_code":"ibo","generation":"PRN V V NNC ADV PRN V NNC NNC NNC V V NNC V V V V V V","example_id":"201"}
+{"lang_code":"ibo","generation":"PREP NNC SYM PRN V NNC CD NNC V NNC","example_id":"202"}
+{"lang_code":"ibo","generation":"NNC V V PREP PRN V NNC DEM V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"203"}
+{"lang_code":"ibo","generation":"NNP CD","example_id":"204"}
+{"lang_code":"ibo","generation":"CD PREP NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"205"}
+{"lang_code":"ibo","generation":"CD V NNC PRN NNC V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"206"}
+{"lang_code":"ibo","generation":"PRN V V NNC DEM NNC V V NNC V PRN V V NNC PREP NNC V V NNC","example_id":"207"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN V SYM V SYM NNC NNC V V NNC V V NNC V V NNC V V NNC V NNC NNC V NNC NNC NNC","example_id":"208"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC DEM SYM NNP V V DEM V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"209"}
+{"lang_code":"ibo","generation":"CD PRN V V V NNC PRN V SYM PRN NNC V NNC V","example_id":"210"}
+{"lang_code":"ibo","generation":"CD VAX V NNC VPERF V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"211"}
+{"lang_code":"ibo","generation":"CD NNC PRN V SYM SYM NNC NNC NNP V NNC PRN SYM V PRN V NNC NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"212"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC NNC NNC NNC V V ADJ CJN V PREP NNC NNC NNC V V SYM","example_id":"213"}
+{"lang_code":"ibo","generation":"NNC V NNC PRN ADV V PREP NNC NNC NNC V PREP NNC V NNC NNC V NNC","example_id":"214"}
+{"lang_code":"ibo","generation":"CD PRN NNC V NNP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"215"}
+{"lang_code":"ibo","generation":"PREP NNC CJN NNC CD V PREP NNC SYM PRN SYM V NNC NNC NNC CJN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"216"}
+{"lang_code":"ibo","generation":"CD CONJ NNC VAX NNC NNC DEM PRN CJN NNC NNC VAX VPERF NNC NNC V V V V NNC NNC NNC SYM","example_id":"217"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC SYM NNP NNC SYM V PREP NNC PREP NNC NNC V V V V V NNC V NNC V NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC","example_id":"218"}
+{"lang_code":"ibo","generation":"V NNC NNC PRN V V PRN V V NNC NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"219"}
+{"lang_code":"ibo","generation":"CD PRN V","example_id":"220"}
+{"lang_code":"ibo","generation":"CD NNC PRN V V PREP NNC V V NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"221"}
+{"lang_code":"ibo","generation":"CD PRN V PRN SYM V V NNC NNC PRN NNC NNC NNC V V NNC","example_id":"222"}
+{"lang_code":"ibo","generation":"CD CONJ V V PREP PRN V V NNC V V NNC V V PREP NNC V V NNC CONJ PRN V V NNC V V NNC V V NNC","example_id":"223"}
+{"lang_code":"ibo","generation":"PRN V NNC V V NNC V NNC V NNC NNC V NNC NNC NNC NNC SYM PREP NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"224"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN NNC NNC NNC PREP NNC NNP SYM CJN PRN VAX VPP CJN NNC V V SYM PREP NNC NNC V V NNC PREP NNC NNC SYM CJN PRN NNC NNC NNP SYM PRN V V SYM WH V PRN V V NNC SYM","example_id":"225"}
+{"lang_code":"ibo","generation":"CD PRN NNC V NNP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"226"}
+{"lang_code":"ibo","generation":"CD NNP V PRN SYM V SYM PRN V V PRN NNC SYM V SYM V SYM V SYM NNC PRN SYM SYM","example_id":"227"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC NNC V PREP NNC V V V NNC NNC ADJ NNC ; PREP NNC PRN V V NNC V V SYM","example_id":"228"}
+{"lang_code":"ibo","generation":"V PRN NNC NNC","example_id":"229"}
+{"lang_code":"ibo","generation":"CD PRN SYM CJN PRN VPERF NNC V V CJN PRN VPERF PRN V V PRN V V PREP NNC V V PRN V V V V ;","example_id":"230"}
+{"lang_code":"ibo","generation":"CD V NNC V V PRN V NNC PREP NNC PRN V V V V NNC PREP NNC V V NNC","example_id":"231"}
+{"lang_code":"ibo","generation":"V V PRN SYM WH V NNC PRN PREP NNC NNP SYM NNC V V NNC SYM V V NNC SYM V V NNC","example_id":"232"}
+{"lang_code":"ibo","generation":"CD NNC VAX CJN PRN V V NNC V V NNC V NNC PRN PREP NNC V V SYM","example_id":"233"}
+{"lang_code":"ibo","generation":"CD NNC V NNC CD V V V NNC NNC NNC NNC NNC V NNC NNC NNC","example_id":"234"}
+{"lang_code":"ibo","generation":"CD CONJ DEM PRN VPERF PRN V NNC PREP NNC CONJ PRN NNC V V PRN VPERF","example_id":"235"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V V NNC NNC NNC V V NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"236"}
+{"lang_code":"ibo","generation":"NNC V V V NNC DEM V V PREP NNC V V SYM NNC NNC V V NNC","example_id":"237"}
+{"lang_code":"ibo","generation":"NNC PRN V V PRN V SYM PREP NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"238"}
+{"lang_code":"ibo","generation":"CD NNC VPERF PRN V NNC NNC SYM NNP VPERF PRN PREP NNC NNC SYM PRN V SYM NNP VPERF PRN SYM WH NNC V V V V SYM","example_id":"239"}
+{"lang_code":"ibo","generation":"CD V V NNC PREP V SYM V NNC V NNC PREP NNC NNC NNC NNC PREP NNC NNC NNC NNC PREP NNC SYM V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"240"}
+{"lang_code":"ibo","generation":"NNC PRN V V V NNC NNC NNC","example_id":"241"}
+{"lang_code":"ibo","generation":"CD V NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"242"}
+{"lang_code":"ibo","generation":"NNC PRN V V V SYM CJN PRN NNC NNC V V NNC NNC NNC NNC NNC NNC PREP NNC CJN PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"243"}
+{"lang_code":"ibo","generation":"PREP NNC SYM V SYM NNP NNC NNC V NNC NNC NNC V","example_id":"244"}
+{"lang_code":"ibo","generation":"PRN NNP V V PRN NNC V NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"245"}
+{"lang_code":"ibo","generation":"PREP NNC CJN PRN VPERF PRN NNC NNC CD PRN V NNC NNC NNC NNC PREP NNC NNC","example_id":"246"}
+{"lang_code":"ibo","generation":"CD CONJ NNC V NNC V V V V SYM V PREP NNC CJN NNC V SYM SYM V PREP NNC V SYM","example_id":"247"}
+{"lang_code":"ibo","generation":"CD VAX VAX NNC PREP NNC SYM CD VAX VAX NNC PREP NNC SYM VAX VAX NNC PREP NNC SYM","example_id":"248"}
+{"lang_code":"ibo","generation":"CD V NNC PREP PREP NNC NNC NNC V V V SYM PRN V SYM SYM","example_id":"249"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC NNC NNC NNC PRN V V NNC DEM PREP NNC NNC ABBR NNC ABBR","example_id":"250"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC PREP NNC NNC PRN V V NNC PREP NNC NNC PRN V V NNC PREP NNC NNC PRN V V NNC PREP NNC NNC","example_id":"251"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC PRN NNC NNC V NNC PREP NNC V NNC PRN V NNC PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"252"}
+{"lang_code":"ibo","generation":"CD CJN NNC NNC NNC CD NNC PRN V NNP VPERF NNC NNC NNC NNC V NNC SYM NNC NNC NNC","example_id":"253"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V NNC DEM V V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V","example_id":"254"}
+{"lang_code":"ibo","generation":"CD PRN NNC PRN NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"255"}
+{"lang_code":"ibo","generation":"PREP NNC NNC PRN V PRN SYM V NNC PRN SYM V NNC V V V NNC PRN SYM PREP NNC NNC PRN V V NNC NNC NNC SYM SYM","example_id":"256"}
+{"lang_code":"ibo","generation":"CD CONJ PRN VPRF DEM NNC PREP NNC V V NNC V V NNC V V NNC V V NNC","example_id":"257"}
+{"lang_code":"ibo","generation":"PREP NNC PRN NNC NNC V V NNC V V V PRN V","example_id":"258"}
+{"lang_code":"ibo","generation":"CD V NNC SYM WH V NNC V NNC PRN NNC PREP NNC SYM NNC V NNC V V NNC PRN V V NNC NNC SYM","example_id":"259"}
+{"lang_code":"ibo","generation":"CD NNC PREP NNC NNC V V NNC PRN NNC SYM PREP CD PREP CD","example_id":"260"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V SYM PRN V NNC NNC ADJ NNC NNC NNC NNC NNC V NNC V NNC V NNC V","example_id":"261"}
+{"lang_code":"ibo","generation":"CD NNC DEM V NNC NNC NNC V NNC V NNC NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"262"}
+{"lang_code":"ibo","generation":"PRN V NNC DEM PREP NNC CD V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"263"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN V SYM NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"264"}
+{"lang_code":"ibo","generation":"CD NNP V SYM SYM V NNC PRN VAX V V NNC NNC V V PREP NNC NNC NNC NNC NNC V V PREP NNC NNC NNC SYM","example_id":"265"}
+{"lang_code":"ibo","generation":"CD NNC V NNC PRN NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"266"}
+{"lang_code":"ibo","generation":"CD CONJ DEM DEM DEM V PREP PREP NNC V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"267"}
+{"lang_code":"ibo","generation":"PRN V V PRN V NNC PRN V","example_id":"268"}
+{"lang_code":"ibo","generation":"PRN NNC CD CD V V PRN DEM NNC V V PREP NNC V V NNC","example_id":"269"}
+{"lang_code":"ibo","generation":"NNC NNC NNC NNP ABBR","example_id":"270"}
+{"lang_code":"ibo","generation":"CD LTT PRN V V PRN V NNC ADJ ADV NNC SYM PREP NNC V V V V","example_id":"271"}
+{"lang_code":"ibo","generation":"NNC V V PRN NNC SYM","example_id":"272"}
+{"lang_code":"ibo","generation":"NNC V V","example_id":"273"}
+{"lang_code":"ibo","generation":"CD CJN NNC DEM V V NNC V V NNC V V NNC SYM PRN V V NNC SYM","example_id":"274"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"275"}
+{"lang_code":"ibo","generation":"CD NNC PRN V NNC PREP NNC V NNC SYM NNC PREP NNC NNC CJN NNC V NNC PREP NNC NNC CJN PRN V V NNC PRN PREP NNC NNC NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"276"}
+{"lang_code":"ibo","generation":"CD V V PRN V PRN V V NNC PREP NNC V PRN NNC PRN V SYM PRN V V V PRN V","example_id":"277"}
+{"lang_code":"ibo","generation":"NNC NNP V V PRN V NNC SYM NNC NNC NNC PREP NNC NNC V NNC NNC NNC","example_id":"278"}
+{"lang_code":"ibo","generation":"NNC VPERF NNC NNC NNC NNC VPERF","example_id":"279"}
+{"lang_code":"ibo","generation":"SYM PREP NNC V CD NNC NNC NNC CD NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"280"}
+{"lang_code":"ibo","generation":"CD PREP WH V V V NNC SYM PRN V V PRN V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V","example_id":"281"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC NNC V PREP NNC NNC PREP NNC NNC V NNC NNC V NNC V NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC","example_id":"282"}
+{"lang_code":"ibo","generation":"PRN V V NNC V NNC V PREP NNC NNC","example_id":"283"}
+{"lang_code":"ibo","generation":"CD NNC CD V V PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"284"}
+{"lang_code":"ibo","generation":"CD ADJ CJN V PREP NNC NNP SYM V SYM V V NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"285"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V NNC ADJ NNC SYM PRN V PRN V V NNC V V V NNC ADJ PREP NNP SYM","example_id":"286"}
+{"lang_code":"ibo","generation":"NNC V V PRN CJN V V NNC NNC NNC NNC NNC V V PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"287"}
+{"lang_code":"ibo","generation":"CD NNC V V NNC V V V NNC V NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC","example_id":"288"}
+{"lang_code":"ibo","generation":"CD NNC ADJ V V NNC PREP NNC PREP NNC V V NNC","example_id":"289"}
+{"lang_code":"ibo","generation":"CD NNC V NNC PREP NNC DEM PRN V NNC NNC NNC SYM PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"290"}
+{"lang_code":"ibo","generation":"NNC V V NNC CD V V NNC V NNC PREP NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V","example_id":"291"}
+{"lang_code":"ibo","generation":"CD INTJ V NNC DEM VPERF PRN V V V NNC NNC NNC NNC NNC V V NNC NNC NNC V V NNC NNC V V","example_id":"292"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM V ADV CJN NNC V PREP NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC PREP NNC NNC V SYM","example_id":"293"}
+{"lang_code":"ibo","generation":"CD V V PREP NNC DEM V V NNC CJN PRN V V NNC PREP NNC V V NNC SYM V V V NNC SYM","example_id":"294"}
+{"lang_code":"ibo","generation":"CD NNP NNP V V PRN PREP NNC V V V PREP NNC NNC NNC NNC SYM PRN V V NNC NNC V PREP NNC SYM","example_id":"295"}
+{"lang_code":"ibo","generation":"CD INTJ PRN V NNC NNC NNC NNC NNC PRN V PREP NNC PREP NNC SYM","example_id":"296"}
+{"lang_code":"ibo","generation":"CD NNC V NNC NNC PREP NNC PRN V V NNC V NNC V V V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC NNC V NNC NNC NNC SYM","example_id":"297"}
+{"lang_code":"ibo","generation":"CD NNC NNP","example_id":"298"}
+{"lang_code":"ibo","generation":"PRN V VPRN NNC PREP NNC CJN V VPRN NNC NNC VPRN NNC NNC VPRN NNC NNC SYM","example_id":"299"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC DEM V V NNC PRN V V NNC PRN V NNC PRN V NNC SYM PRN V NNC PRN V NNC SYM PRN V V NNC PRN V NNC SYM PRN V V NNC PRN V NNC SYM PRN V V NNC SYM PRN V V NNC SYM PRN V V NNC SYM","example_id":"300"}
+{"lang_code":"ibo","generation":"CD V V NNC PRN V V PRN V V NNC V NNC V NNC V NNC SYM PRN NNC NNC V V NNC V NNC","example_id":"301"}
+{"lang_code":"ibo","generation":"NNC V V V NNC V V V NNC V V NNC V V NNC V V NNC","example_id":"302"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC V NNC PREP NNC CJN PRN V NNC PRN V NNC V V NNC PREP NNC PRN NNC V NNC","example_id":"303"}
+{"lang_code":"ibo","generation":"WH V NNC NNC NNC VAX V NNC PRN NNC SYM NNP NNP V NNC NNC SYM V NNC NNC SYM V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"304"}
+{"lang_code":"ibo","generation":"CD NNC V NNC NNC NNC PRN V NNC PREP NNC CJN PRN V NNC V NNC V NNC V","example_id":"305"}
+{"lang_code":"ibo","generation":"CD V NNC PREP NNC V V V V SYM CD PRN V V NNC V NNC SYM","example_id":"306"}
+{"lang_code":"ibo","generation":"NNC PREP NNC PRN NNC NNC V NNC PRN NNC V V NNC","example_id":"307"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN VPERF_XS ADJ NNC PRN NNC PREP NNC NNC VPERF NNC VAX NNC VAX NNC PREP NNC VPERF NNC NNC PREP NNC NNC NNC NNC NNC NNC","example_id":"308"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM NNC NNC NNC V V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"309"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM CJN PRN V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V","example_id":"310"}
+{"lang_code":"ibo","generation":"SYM PRN V NNC CJN PRN V NNC PRN V NNC V NNC PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"311"}
+{"lang_code":"ibo","generation":"NNC DEM V V PRN NNC CJN PRN V NNC NNC","example_id":"312"}
+{"lang_code":"ibo","generation":"CD V NNC NNC V V PRN V NNC PRN V V PRN V V NNC NNC V NNC NNC PREP NNC SYM","example_id":"313"}
+{"lang_code":"ibo","generation":"CD NNP V NNC DEM PRN V NNC V PRN V V PRN V NNC","example_id":"314"}
+{"lang_code":"ibo","generation":"CD PREP NNC V NNC CJN PRN V NNC PRN V NNC NNC V NNC NNC SYM NNC NNC PRN V NNC PREP NNC NNC SYM NNC NNC V NNC NNC V NNC NNC SYM NNC V NNC NNC NNC NNC NNC SYM","example_id":"315"}
+{"lang_code":"ibo","generation":"CD PRN VAX_XS NNC QTF V V PREP NNC CJN PRN V V NNC PRN V NNC PREP NNC NNC","example_id":"316"}
+{"lang_code":"ibo","generation":"NNP NNC VPP PREP NNC PRN NND PREP NNC VPERF_XS","example_id":"317"}
+{"lang_code":"ibo","generation":"CD NNC PRN PREP NNC V V NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"318"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC DEM V V NNC PRN V V NNC PRN V NNC PRN V NNC SYM PRN V NNC PRN V NNC SYM PRN V V NNC PRN V NNC SYM PRN V V NNC PRN V NNC SYM PRN V V NNC SYM PRN V V NNC SYM PRN V V NNC SYM","example_id":"319"}
+{"lang_code":"ibo","generation":"CD VAX V V NNC PREP NNC CJN PRN VPERF V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"320"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"321"}
+{"lang_code":"ibo","generation":"CD V V NNC CJN V NNC PRN V V NNC V V SYM NNC PRN V V SYM NNC NNC NNC NNC NNC V SYM NNC NNC V SYM NNP SYM","example_id":"322"}
+{"lang_code":"ibo","generation":"CD PRN NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"323"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNP V NNC NNC SYM V SYM NNP V NNC DEM NNC PREP NNC NNC NNC","example_id":"324"}
+{"lang_code":"ibo","generation":"SYM PRN NNC NNC PRN V NNC CJN PRN V NNC V NNC V NNC V NNC NNC SYM","example_id":"325"}
+{"lang_code":"ibo","generation":"CD NNC PRN V NNC PREP NNC V V NNC SYM PREP NNC V V PRN CJN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"326"}
+{"lang_code":"ibo","generation":"CD CONJ NNP V PRN SYM V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"327"}
+{"lang_code":"ibo","generation":"CD PREP NNC DEM PRN NNP VPERF V V NNC PRN DEM PRN V NNC","example_id":"328"}
+{"lang_code":"ibo","generation":"PRN V V PRN V NNC PRN V","example_id":"329"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"330"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC V NNC PREP NNC V NNC PRN NNC V NNC NNC NNC NNC NNC","example_id":"331"}
+{"lang_code":"ibo","generation":"PREP NNC NNC PRN V V V NNC V NNC NNC V NNC V NNC","example_id":"332"}
+{"lang_code":"ibo","generation":"CD V V V V PREP NNC V PREP NNC CD NNC V PREP NNC V V V NNC NNC SYM","example_id":"333"}
+{"lang_code":"ibo","generation":"CD PRN V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"334"}
+{"lang_code":"ibo","generation":"PRN V V NNC NNC PRN V NNC V V NNC V NNC PREP NNC DEM ADV V NNC V","example_id":"335"}
+{"lang_code":"ibo","generation":"CD NNC PREP NNC DEM NNC V V NNC V NNC NNC NNP V SYM V NNC V NNC","example_id":"336"}
+{"lang_code":"ibo","generation":"PRN V V NNC PRN V NNC NNC V PRN V V V NNC PREP NNP V V PRN V V V","example_id":"337"}
+{"lang_code":"ibo","generation":"CD VPERF_XS PRN NNC DEM PRN V V PRN V V V NNC DEM WH V PRN V V NNC SYM V NNC PRN V V NNC NNC V V NNC PREP NNC SYM","example_id":"338"}
+{"lang_code":"ibo","generation":"CD SYM SYM","example_id":"339"}
+{"lang_code":"ibo","generation":"INTJ PREP NNC SYM V NNC QTF V QTF V V ; CJN NNC V PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"340"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC NNC V PRN V V V V NNC CD ADV ; PRN V V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"341"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V NNC V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"342"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC PRN PREP NNC SYM PREP NNC CJN NNC V NNC PRN NNC NNC V NNC PRN V NNC NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"343"}
+{"lang_code":"ibo","generation":"CD PRN V NNC PREP NNC PREP NNC V V SYM SYM WH V NNC NNC NNC CJN V V NNC NNC","example_id":"344"}
+{"lang_code":"ibo","generation":"CD V NNC PRN V V V V NNC CJN PRN V V NNC V NNC NNC NNC NNC","example_id":"345"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC ADJ CJN PREP NNC V V NNC NNC V NNC V NNC","example_id":"346"}
+{"lang_code":"ibo","generation":"CD NNC V V PREP NNC NNC PRN V SYM SYM NNC DEM V NNC PRN NNC V SYM WH PRN V NNC SYM","example_id":"347"}
+{"lang_code":"ibo","generation":"CD NNC NNP NNC NNP NNC NNP NNC NNP NNC NNP NNC NNP","example_id":"348"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC NNC DEM CD PREP NNC PREP NNC V NNC PRN CD V NNC","example_id":"349"}
+{"lang_code":"ibo","generation":"PRN V NNC PREP NNC SYM PRN V PREP NNC SYM PRN V ADV PRN NNC PRN V NNC SYM","example_id":"350"}
+{"lang_code":"ibo","generation":"NNC NNC NNC V V CD PRN V PREP NNC SYM V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"351"}
+{"lang_code":"ibo","generation":"CD PRN V SYM DEM V PREP NNC PRN DEM V V V NNC PRN V PREP NNC NNC SYM","example_id":"352"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"353"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"354"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC V NNC PREP NNC DEM NNC V NNC NNC V NNC NNC V NNC NNC NNC V NNC DEM NNC","example_id":"355"}
+{"lang_code":"ibo","generation":"CD CJN PRN V V NNC CJN NNC V V PREP NNC NNC NNC SYM PRN V V CJN PRN V NNC PRN NNC NNC SYM","example_id":"356"}
+{"lang_code":"ibo","generation":"NNC NNC VPERF_XS","example_id":"357"}
+{"lang_code":"ibo","generation":"NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"358"}
+{"lang_code":"ibo","generation":"CD WH V NNC NNC NNC VAX V PRN V V NNC VAX V NNC V NNC NNC V NNC NNC NNC V NNC NNC NNC V NNC NNC NNC V NNC NNC NNC","example_id":"359"}
+{"lang_code":"ibo","generation":"CD V NNC NNC DEM V PREP NNC PREP NNC VPERF NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"360"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC DEM PRN V NNC NNC NNC PRN NNC NNC NNC PRN NNC NNC NNC V NNC NNC NNC V","example_id":"361"}
+{"lang_code":"ibo","generation":"CD PRN V NNC V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PR","example_id":"362"}
+{"lang_code":"ibo","generation":"CD VPRF PRN V NNC PREP NNC NNC V NNC V NNC NNC V NNC V NNC V NNC V NNC","example_id":"363"}
+{"lang_code":"ibo","generation":"INTJ NNC NNC V NNC NNC PREP PRN PREP V NNC CJN V NNC PREP NNC PREP NNC NNC NNC","example_id":"364"}
+{"lang_code":"ibo","generation":"CD CONJ VPRF PRN V V NNC NNC PRN V V NNC NNC PRN V V NNC NNC","example_id":"365"}
+{"lang_code":"ibo","generation":"PRN NNC V V V PRN NNC NNC V PREP NNC V NNC SYM","example_id":"366"}
+{"lang_code":"ibo","generation":"CD CONJ NNC PRN V NNC V NNC NNC NNC NNC NNC NNC NNP V","example_id":"367"}
+{"lang_code":"ibo","generation":"PRN VAX V NNC PRN V NNC CJN PRN V V NNC NNC","example_id":"368"}
+{"lang_code":"ibo","generation":"CD PRN V V PRN SYM V NNC QTF NNC CJN NNC NNC CJN NNC NNC CJN NNC NNC CJN NNC NNC NNC NNC NNC SYM","example_id":"369"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V NNC PREP NNC NNC NNC V V V V NNC NNC NNC","example_id":"370"}
+{"lang_code":"ibo","generation":"CD PRN V VPRN PRN V NNC ADV ADV V V V NNC V V V V V V V V V V V V","example_id":"371"}
+{"lang_code":"ibo","generation":"NNP CD","example_id":"372"}
+{"lang_code":"ibo","generation":"CD PRN V PREP NNC PREP NNC V V V V NNC V NNC","example_id":"373"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN NNC V NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"374"}
+{"lang_code":"ibo","generation":"CD V VPRN PRN PREP NNC NNC NKE V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"375"}
+{"lang_code":"ibo","generation":"PRN V NNC PREP NNC NNC V SYM SYM NNC SYM NNC SYM NNC SYM PREP NNC PRN DEM V V V PREP NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"376"}
+{"lang_code":"ibo","generation":"PRN VAX V NNC NNC PRN NNC VAX V CJN PRN NNC V V PRN NNC","example_id":"377"}
+{"lang_code":"ibo","generation":"CD SYM PRN V V V PRN PREP NNC V V NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"378"}
+{"lang_code":"ibo","generation":"NNC ADV PREP NNC V V V V NNC PRN V V NNC PRN V NNC NNC NNC","example_id":"379"}
+{"lang_code":"ibo","generation":"CD NNC NNC V V PRN PREP NNC V SYM PRN V NNC PRN V V SYM PRN V V SYM","example_id":"380"}
+{"lang_code":"ibo","generation":"CD ADV CJN NNP V NNC NNC NNC V NNC PREP NNC V NNC NNC NNC PREP NNC V NNC NNC SYM V SYM","example_id":"381"}
+{"lang_code":"ibo","generation":"CD CONJ DEM NNC NNC VPERF PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"382"}
+{"lang_code":"ibo","generation":"PRN V PREP NNC V NNC CD V PREP NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"383"}
+{"lang_code":"ibo","generation":"CD CJN VAX NNC CD PRN V V PRN V V NNC V PRN V NNC CD","example_id":"384"}
+{"lang_code":"ibo","generation":"PRN V V NNC NNC PRN V V NNC V NNC V NNC V NNC V","example_id":"385"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM NNC PRN V V PRN V V PRN V PREP NNC NNP NNP V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"386"}
+{"lang_code":"ibo","generation":"CD VPERF_XS V NNC DEM NNC VPERF_XS PRN NNC NNC VPERF_XS PRN NNC NNC VPERF_XS PRN NNC NNC VPERF_XS PRN NNC NNC VPERF_XS PRN NNC NNC VPERF_XS PRN NNC NNC VPERF_XS PRN NNC NNC VPERF_XS PRN NNC NNC","example_id":"387"}
+{"lang_code":"ibo","generation":"NNC NNC V V PREP V V V V V V V V","example_id":"388"}
+{"lang_code":"ibo","generation":"CD VPERF_XS PRN NNC V NNC PRN V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"389"}
+{"lang_code":"ibo","generation":"CD PRN V NNC SYM NNC DEM NNC PRN NNC V NNC V NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"390"}
+{"lang_code":"ibo","generation":"CD PREP NNC PRN NNC NNC V NNC V NNC NNC","example_id":"391"}
+{"lang_code":"ibo","generation":"VAX V NNC PRN NNC CD PRN NNC NNP NNP SYM","example_id":"392"}
+{"lang_code":"ibo","generation":"NNC NNC NNC PRN V V NNC V NNC CD","example_id":"393"}
+{"lang_code":"ibo","generation":"CD CJN NNC ADJ SYM PREP NNC DEM CD SYM PRN V NNC PREP NNC VPP PREP NNC NNC NNC NNC NNC NNC NNC","example_id":"394"}
+{"lang_code":"ibo","generation":"V NNC NNC CD CD V PREP NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"395"}
+{"lang_code":"ibo","generation":"CD NNC CJN PRN NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"396"}
+{"lang_code":"ibo","generation":"NNC V NNC NNC CD NNC PREP NNC NNC NNC NNC PREP NNC V NNC","example_id":"397"}
+{"lang_code":"ibo","generation":"CD NNC NNC VPERF NNC V V PRN V V NNC","example_id":"398"}
+{"lang_code":"ibo","generation":"CD PREP NNC V V , V V PRN CD V V CJN V NNC ; ma NNC V V , V V V NNC NNC .","example_id":"399"}
+{"lang_code":"ibo","generation":"CD CJN NNC NNC PRN NNC PREP NNC V V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"400"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V PREP NNC V PRN SYM V SYM SYM WH NNC NNC PRN V SYM NNP V PRN SYM SYM PRN V PRN SYM SYM PRN V PRN V PRN V PRN V PRN SYM SYM","example_id":"401"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM VPRN V PRN V NNC NNC V V NNC DEM","example_id":"402"}
+{"lang_code":"ibo","generation":"CD CONJ DEM PREP NNC NNC NNC NNC V V PRN V SYM V SYM V PRN V NNC V V PRN V SYM V V PRN V SYM","example_id":"403"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC NNC V V NNC V NNC SYM PRN V V PRN NNC NNC NNC NNC","example_id":"404"}
+{"lang_code":"ibo","generation":"CD PRN V SYM DEM NNC V NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"405"}
+{"lang_code":"ibo","generation":"NNC NNC NNC V V V V NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"406"}
+{"lang_code":"ibo","generation":"CD NNC NNP V NNC V V SYM V SYM SYM V V V V V V V","example_id":"407"}
+{"lang_code":"ibo","generation":"PRN V PREP PRN VAX V NNC PRN V NNC NNC V V NNC NNC V NNC NNC NNC","example_id":"408"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN V PREP NNC V V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"409"}
+{"lang_code":"ibo","generation":"V NNC NNC NNC V V PRN V V V V PREP NNC NNC","example_id":"410"}
+{"lang_code":"ibo","generation":"NNC NNC NNC V V PRN NNC V V CD","example_id":"411"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V V NNC ADJ ADJ PRN V V NNC PREP NNC NNC V NNC NNC NNC NNC NNC V V V V V","example_id":"412"}
+{"lang_code":"ibo","generation":"PRN PRN VAXPRN V V NNC , PREP NNC CJN PRN V NNC NNC NNC SYM , PREP NNC CJN PRN V NNC V NNC V NNC . PRN VAXPRN V NNC PREP PRN V NNC ,","example_id":"413"}
+{"lang_code":"ibo","generation":"CD PRN NNC V V NNC CJN V V V V NNC V V NNC V NNC","example_id":"414"}
+{"lang_code":"ibo","generation":"VAX V V V NNC V NNC PRN NNC V NNC NNC V NNC NNC V NNC NNC","example_id":"415"}
+{"lang_code":"ibo","generation":"CD SYM PRN VPRN PRN V NNC NNC ADJ V SYM PRN V V V NNC PREP NNC VPRN PRN V V NNC","example_id":"416"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"417"}
+{"lang_code":"ibo","generation":"CD NNC V VAXPRN PREP NNC PRN SYM V V V SYM PRN V V NNC","example_id":"418"}
+{"lang_code":"ibo","generation":"NNC CD NNC DEM V NNP","example_id":"419"}
+{"lang_code":"ibo","generation":"CD V V CJN NNC NNC PRN V NNC NNC NNC PREP NNC V NNC NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"420"}
+{"lang_code":"ibo","generation":"NNC V V NNC PRN V V NNC NNC PRN NNC V NNC V NNC V NNC PRN","example_id":"421"}
+{"lang_code":"ibo","generation":"CD V NNC CD PRN V NNC PRN V V V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"422"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V V PRN SYM V SYM WH V NNC PRN V SYM SYM NNP V PRN SYM SYM NNC PRN V NNC PREP NNC V ADV SYM","example_id":"423"}
+{"lang_code":"ibo","generation":"PRN V V V V PREP NNC SYM V PRN SYM V V V NNC V V NNC DEM NNC V V NNC SYM","example_id":"424"}
+{"lang_code":"ibo","generation":"CD SYM V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"425"}
+{"lang_code":"ibo","generation":"CD V SYM PRN NNC PRN V V PRN V V NNC PRN V V NNC PREP NNC SYM CJN PRN V PRN NNC V V NNC NNC SYM PRN V PRN NNC V V NNC NNC SYM PRN V PRN NNC V V NNC NNC SYM PRN V V NNC NNC SYM","example_id":"426"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V","example_id":"427"}
+{"lang_code":"ibo","generation":"CD CONJ PRN VPERF_XS PREP NNC CJN PRN VPERF_XS PRN VAX NNC","example_id":"428"}
+{"lang_code":"ibo","generation":"CD V V PRN SYM SYM V V V NNC NNC NNC V V NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"429"}
+{"lang_code":"ibo","generation":"CD V V NNC ADJ DEM SYM","example_id":"430"}
+{"lang_code":"ibo","generation":"CD SYM V NNC PRN NNC NNC NNC NNC PREP NNC CJN PRN V V PRN V PREP NNC V NNC V NNC PREP NNC V NNC NNC PREP NNC SYM","example_id":"431"}
+{"lang_code":"ibo","generation":"PRN NNC NNC DEM V V PREP NNC","example_id":"432"}
+{"lang_code":"ibo","generation":"CD PREP NNC PRN NNC V NNC V V V V NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"433"}
+{"lang_code":"ibo","generation":"CD NNC PRN V V PREP NNC PRN V NNC PREP NNC CJN PRN NNC PRN V PRN V NNC PRN NNC PRN NNC NNC V NNC SYM","example_id":"434"}
+{"lang_code":"ibo","generation":"CD V V NNP V V V NNC V V V SYM WH PRN PRN V NNC NNC NNP V V SYM V NNC PRN V V NNC","example_id":"435"}
+{"lang_code":"ibo","generation":"CD SYM PRN V V NNC PREP NNC CJN PRN V V NNC CD CJN NNC V V","example_id":"436"}
+{"lang_code":"ibo","generation":"CD LTT NNC VPERF NNC DEM PRN V V NNC WH V NNC NNC","example_id":"437"}
+{"lang_code":"ibo","generation":"CD V NNC V NNC PRN NNC PREP NNC V V PRN CJN PRN NNC PRN NNC NNC","example_id":"438"}
+{"lang_code":"ibo","generation":"SYM PREP NNC SYM PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"439"}
+{"lang_code":"ibo","generation":"PRN V NNC DEM V PREP NNC NNP","example_id":"440"}
+{"lang_code":"ibo","generation":"CD NNC PRN NNC NNC ADV PRN V NNC ADJ PRN V NNC ADJ PRN V NNC NNC PRN V NNC ADJ PRN V NNC NNC CJN PRN V NNC NNC NNC","example_id":"441"}
+{"lang_code":"ibo","generation":"PRN V NNC PRN V V V NNC V NNC V NNC","example_id":"442"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V V V NNC PRN SYM WH V PRN VAX V NNC PREP PRN V NNC V NNC V NNC","example_id":"443"}
+{"lang_code":"ibo","generation":"PRN V V NNC SYM NNC NNP V V V PREP NNC SYM V V NNC SYM V V NNC SYM NNC V V NNC SYM","example_id":"444"}
+{"lang_code":"ibo","generation":"CD PRN V PREP NNC SYM V PREP NNC NNC DEM NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"445"}
+{"lang_code":"ibo","generation":"CD NNC NNC VPERF NNC NNC NNC V","example_id":"446"}
+{"lang_code":"ibo","generation":"CD CONJ DEM PRN V PREP NNC NNP V PRN V V PREP NNC V V PRN V","example_id":"447"}
+{"lang_code":"ibo","generation":"CD NNC V INTJ PRN V NNC V NNC PREP NNC V SYM V SYM V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V","example_id":"448"}
+{"lang_code":"ibo","generation":"NNC PRN NNC NNC V V ADJ CD SYM CD SYM NNC V CD SYM CD V V SYM","example_id":"449"}
+{"lang_code":"ibo","generation":"CD VAX V NNC PRN V PREP NNC CJN PRN V NNC PRN V NNC NNC SYM NNP NNC NNC","example_id":"450"}
+{"lang_code":"ibo","generation":"NNC NNP CD","example_id":"451"}
+{"lang_code":"ibo","generation":"CD PRN V PREP NNC V PRN SYM V V NNC V NNC PREP NNC V NNC V V NNC V NNC","example_id":"452"}
+{"lang_code":"ibo","generation":"PREP NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC","example_id":"453"}
+{"lang_code":"ibo","generation":"NNC NNC V V PREP PREP NNC V V NNC V V NNC V NNC V NNC","example_id":"454"}
+{"lang_code":"ibo","generation":"CD PRN NNP VPERF DEM CD PREP NNC SYM NNC PREP NNC SYM CJN PRN VPERF PRN V V PRN V PREP NNC NNC SYM CJN PRN V V PRN V V NNC SYM CJN PRN V V NNC SYM","example_id":"455"}
+{"lang_code":"ibo","generation":"CD CONJ V VPRN PRN VPRN PRN NNC PRN VPRN PRN VPRN NNC VPRN PRN VPRN NNC PREP NNC VPRN PRN VPRN NNC PREP NNC VPRN PRN VPRN NNC","example_id":"456"}
+{"lang_code":"ibo","generation":"CD NNC PRN V V PRN PREP NNC CJN PRN V V NNC , NNC V SYM SYM V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"457"}
+{"lang_code":"ibo","generation":"CD V NNC CJN PRN V NNC NNC NNC NNC NNC NNC V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"458"}
+{"lang_code":"ibo","generation":"CD PRN V NNC CJN V NNC NNC ADJ PREP NNC CJN PRN V NNC CJN PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"459"}
+{"lang_code":"ibo","generation":"NNC PRN V NNC V NNC PRN NNC NNC SYM","example_id":"460"}
+{"lang_code":"ibo","generation":"V NNC PRN NNC V NNC PREP NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"461"}
+{"lang_code":"ibo","generation":"CD V V PREP NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"462"}
+{"lang_code":"ibo","generation":"NNC V NNC NNC PREP NNC PREP NNC V NNC NNC V NNC PRN V NNC PRN V NNC V NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC","example_id":"463"}
+{"lang_code":"ibo","generation":"V SYM NNC NNC V NNC V SYM V PREP NNC NNC NNC V NNC NNC NNC NNC NNC NNC V NNC V V PREP NNC V V V PREP NNC V NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"464"}
+{"lang_code":"ibo","generation":"CD CJN PRN V PRN V V SYM V V PRN V V PRN V V NNC SYM V V NNC PREP NNP SYM","example_id":"465"}
+{"lang_code":"ibo","generation":"CD NNC NNC PRN V V PRN SYM V NNC DEM CD ; WH V PRN V V PRN SYM","example_id":"466"}
+{"lang_code":"ibo","generation":"CD CONJ WH PRN VAX V NNC PRN VAX V NNC NNC NNC NNC NNC NNC V NNC","example_id":"467"}
+{"lang_code":"ibo","generation":"CD CONJ NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"468"}
+{"lang_code":"ibo","generation":"CD V NNC NNC V V NNC PRN V NNC CJN NNC V NNC V NNC NNC PRN V NNC SYM PREP NNC PRN V NNC V NNC NNC V NNC PRN V NNC V NNC NNC SYM","example_id":"469"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN V V NNC NNC NNC V V NNC NNC NNC NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"470"}
+{"lang_code":"ibo","generation":"NNC DEM V NNC NNC PRN V V","example_id":"471"}
+{"lang_code":"ibo","generation":"PREP NNC SYM PRN V VPRN NNC NNC NNC NNC NNC PREP NNC SYM PRN VPERF PRN VPERF PRN VAX VPRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"472"}
+{"lang_code":"ibo","generation":"CD NNC V V NNC PRN NNC V NNC V NNC V NNC V NNC PRN NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"473"}
+{"lang_code":"ibo","generation":"CD PRN VAXPRN NNC PRN VAXPRN PRN NNC VAXPRN PRN NNC VAXPRN CD CJN PRN VAXPRN PRN VAXPRN NNC VAXPRN","example_id":"474"}
+{"lang_code":"ibo","generation":"PRN VPERF_XS V NNC NNC NNC NNC V V NNC NNC PREP NNC NNC NNC NNC NNC NNC PREP NNC NNC NNC NNC NNC NNC","example_id":"475"}
+{"lang_code":"ibo","generation":"CD NNC V VPRN PRN V SYM PRN V SYM SYM V NNC NNC V V NNC V NNC PRN V NNC PRN V SYM","example_id":"476"}
+{"lang_code":"ibo","generation":"PRN V V V PRN NNC V V PRN PREP NNC PRN","example_id":"477"}
+{"lang_code":"ibo","generation":"NNC DEM VPERF NNC PRN V V NNC NNC NNC NNC NNC NNC VPERF NNC SYM","example_id":"478"}
+{"lang_code":"ibo","generation":"CD NNC V NNC V V PRN V V NNC PREP NNC CJN NNC V V NNC PREP NNC NNC CJN NNC NNC NNC NNC V NNC V V NNC V","example_id":"479"}
+{"lang_code":"ibo","generation":"PRN V NNC CD V NNC PREP NNC NNC NNC NNC NNC NNC","example_id":"480"}
+{"lang_code":"ibo","generation":"PRN VPERF_BPRN_XS PREP NNC VAX VPP NNC NNC NNC NNC","example_id":"481"}
+{"lang_code":"ibo","generation":"CD NNP V V SYM V SYM WH NNC SYM PRN V V NNC NNC PRN V SYM SYM NNP V PRN V V PRN V SYM","example_id":"482"}
+{"lang_code":"ibo","generation":"CD V V NNC DEM V NNC V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V N","example_id":"483"}
+{"lang_code":"ibo","generation":"NNC V NNC DEM PRN V NNC PREP NNC PREP NNC V NNC V V PRN V NNC PREP NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC","example_id":"484"}
+{"lang_code":"ibo","generation":"PREP NNC CJN PRN DEM VPERF NNC V V NNC V CJN NNC V V V V V V V V","example_id":"485"}
+{"lang_code":"ibo","generation":"V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"486"}
+{"lang_code":"ibo","generation":"CD DEM SYM PRN NNC V VPRN PRN V VPRN NNC V VPRN NNC V VPRN NNC V VPRN NNC V VPRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"487"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC DEM SYM V NNC ADJ NNC NNC NNC NNC NNC NNC NNC V NNC SYM NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"488"}
+{"lang_code":"ibo","generation":"PRN V PREP NNC NNC PRN PREP NNC SYM PRN V V NNC NNC PRN V NNC NNC CD V NNC NNC SYM","example_id":"489"}
+{"lang_code":"ibo","generation":"CD SYM SYM","example_id":"490"}
+{"lang_code":"ibo","generation":"CD CONJ DEM PRN V VPRN PRN V NNC PRN V NNC NNC","example_id":"491"}
+{"lang_code":"ibo","generation":"CD NNCV DEM NNC NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"492"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN VAXPRN PRN NNC DEM PRN V V NNC NNC NNC CJN PRN V NNC SYM PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"493"}
+{"lang_code":"ibo","generation":"NNC V V V V PRN","example_id":"494"}
+{"lang_code":"ibo","generation":"PREP NNC V V NNC V V NNC PRN NNC V V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"495"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN V ADV DEM CJN NNC V PREP NNC V NNC V NNC NNC V NNC NNC SYM","example_id":"496"}
+{"lang_code":"ibo","generation":"CD NNC V V NNC PREP NNC SYM V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"497"}
+{"lang_code":"ibo","generation":"CD NNP V V PRN SYM V V NNC V V NNC NNC V NNC NNC V V NNC V V NNC V V NNC NNC V V NNC NNC SYM","example_id":"498"}
+{"lang_code":"ibo","generation":"CD PRN V NNC NNC PRN SYM V SYM WH NNC DEM V V NNC NNC NNC V NNC NNC PREP NNC SYM V V NNC NNC NNC NNC NNC NNC SYM","example_id":"499"}
+{"lang_code":"ibo","generation":"CD PREP V V PRN V NNC PREP NNC PREP NNC V NNC V NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC","example_id":"500"}
+{"lang_code":"ibo","generation":"NNC PRN V SYM WH NNC V CJN NNC V V NNC V V NNC V","example_id":"501"}
+{"lang_code":"ibo","generation":"CD V NNC PRN NNC PRN V V NNC V NNC CD V PREP NNC SYM","example_id":"502"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V NNC PRN SYM V VPRN NNC PRN V SYM","example_id":"503"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC PRN V NNC PRN V V V V","example_id":"504"}
+{"lang_code":"ibo","generation":"CD V V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"505"}
+{"lang_code":"ibo","generation":"CD PREP NNC PRN V NNC NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC PRN V NNC V NNC V NNC NNC V NNC","example_id":"506"}
+{"lang_code":"ibo","generation":"CD NNC V SYM WH V NNC NNC V SYM VPRF NNC V V NNC PREP NNC CJN NNC NNC V V NNC V V NNC V V NNC V V NNC V SYM","example_id":"507"}
+{"lang_code":"ibo","generation":"PRN V V NNC NNC V V CJN PRN V V CJN PRN V V PREP PRN NNC NNC SYM","example_id":"508"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN VPERF V V PREP NNC V NNC PRN NNC NNC NNC NNC NNC","example_id":"509"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V V PRN V NNC ADJ PREP NNC V V NNC PRN NNC","example_id":"510"}
+{"lang_code":"ibo","generation":"PRN NNC V V V SYM PRN V NNC NNC V V","example_id":"511"}
+{"lang_code":"ibo","generation":"V V NNC NNC NNC V V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"512"}
+{"lang_code":"ibo","generation":"CD CONJ VPERF V V NNC PRN NNC NNC V V NNC CD CD NNC V V NNC NNC NNC NNC NNC NNC NNC","example_id":"513"}
+{"lang_code":"ibo","generation":"CD V SYM PRN V NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC NNC V NNC NNC","example_id":"514"}
+{"lang_code":"ibo","generation":"CD PRN PRN NNC V V ADJ V NNC CD","example_id":"515"}
+{"lang_code":"ibo","generation":"CD CONJ ADV NNP V V PRN V PREP PRN ADV NNP V V PRN V V PRN V V PRN V V PRN V V NNC SYM","example_id":"516"}
+{"lang_code":"ibo","generation":"PRN V NNC DEM V NNC CJN NNC V V V V NNC PREP NNC PRN V","example_id":"517"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC V NNC V NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"518"}
+{"lang_code":"ibo","generation":"CD V NNC PREP NNC V NNC PREP NNC DEM V NNC NNC SYM PREP NNC CJN PRN V NNC NNC SYM PRN V NNC NNC NNC V NNC V NNC V V V NNC SYM","example_id":"519"}
+{"lang_code":"ibo","generation":"PRN NNC V NNC PRN V V NNC NNC","example_id":"520"}
+{"lang_code":"ibo","generation":"CD WH V NNC V V NNC DEM V V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"521"}
+{"lang_code":"ibo","generation":"CD CONJ DEM PRN V VPRN PRN V NNC PRN V NNC NNC","example_id":"522"}
+{"lang_code":"ibo","generation":"PRN V V NNC V NNC NNC V NNC V NNC V NNC","example_id":"523"}
+{"lang_code":"ibo","generation":"WH VPERF_XS VPRF_XS PRN V VPRF_XS NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"524"}
+{"lang_code":"ibo","generation":"NNC V NNC PREP NNC NNC V PREP NNC NNC CD PREP NNC NNC CD","example_id":"525"}
+{"lang_code":"ibo","generation":"CD PRN V NNC CJN PRN NNC NNC V V NNC NNC NNC V NNC NNC V NNC NNC V NNC","example_id":"526"}
+{"lang_code":"ibo","generation":"NNC NNC VPERF NNC PREP NNC V V NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"527"}
+{"lang_code":"ibo","generation":"SYM V NNC NNC NNC V NNC V NNC PRN V NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"528"}
+{"lang_code":"ibo","generation":"VPP NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"529"}
+{"lang_code":"ibo","generation":"CD NNP V V PRN SYM PRN VAXPRN V NNC PRN V V NNC SYM","example_id":"530"}
+{"lang_code":"ibo","generation":"CD SYM ADJ NNC V NNC NNC V NNC NNC NNC NNC","example_id":"531"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"532"}
+{"lang_code":"ibo","generation":"NNC V V NNC NNC NNC V NNC V V NNC V V V V NNC V V","example_id":"533"}
+{"lang_code":"ibo","generation":"V NNC V NNC V NNC V NNC NNC V NNC NNC NNC NNC NNC V NNC NNC V NNC V NNC V NNC NNC V NNC NNC NNC","example_id":"534"}
+{"lang_code":"ibo","generation":"CD DEM V NNC PRN V PREP NNC CJN PRN V V NNC PREP NNC V V NNC V V NNC","example_id":"535"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC V V V V V V NNC","example_id":"536"}
+{"lang_code":"ibo","generation":"CD V NNC NNC PREP NNC V V NNC V V NNC V NNC","example_id":"537"}
+{"lang_code":"ibo","generation":"CD V V PRN SYM V PRN V NNC NNC SYM PRN V PRN SYM SYM V PRN V SYM SYM V PRN V SYM","example_id":"538"}
+{"lang_code":"ibo","generation":"CD SYM NND NNC PRN V NNC CD V NNC PREP NNC NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"539"}
+{"lang_code":"ibo","generation":"CD V NNC CD NNC CD NNC V NNC V NNC PREP NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"540"}
+{"lang_code":"ibo","generation":"CD PRN V PREP NNC V NNC V V V V V V V V V V V V V V V","example_id":"541"}
+{"lang_code":"ibo","generation":"CD V V NNC PREP NNC V NNC V SYM NNP V NNC PRN V SYM SYM CD V V NNC PREP NNC V","example_id":"542"}
+{"lang_code":"ibo","generation":"CD NNC V NNC SYM NNC V V V PREP NNC CJN NNC V V PREP NNC SYM","example_id":"543"}
+{"lang_code":"ibo","generation":"NNC NNC VAX PREP NNC NNC CJN V V PREP NNC NNC CJN V V PRN VAX VPP NNC V V NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"544"}
+{"lang_code":"ibo","generation":"CD NNC ADV NNC V V NNC PREP NNC V V PRN V V CJN NNC NNC V V NNC V V","example_id":"545"}
+{"lang_code":"ibo","generation":"NNC PRN VAX V V V NNC NNC V V NNC NNC V V NNC NNC","example_id":"546"}
+{"lang_code":"ibo","generation":"CD NNC CD SYM CD VAX VPP SYM V SYM V NNC NNC PRN NNC NNC NNC NNC NNC SYM","example_id":"547"}
+{"lang_code":"ibo","generation":"CD NNC PREP NNC V V PRN SYM V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"548"}
+{"lang_code":"ibo","generation":"CD NNC V V CJN PRN V NNC V NNC NNC NNC NNC PREP NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"549"}
+{"lang_code":"ibo","generation":"CD PREP NNC PREP NNC CD PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"550"}
+{"lang_code":"ibo","generation":"CD LTT PRN V V V V V V NNC V V NNC NNC PREP NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"551"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN NNC PRN V NNC PRN V NNC PRN V NNC NNC V NNC V NNC","example_id":"552"}
+{"lang_code":"ibo","generation":"CD CONJ DEM NNC V V NNC V NNC V V NNC V V NNC PREP NNC CONJ PREP NNC","example_id":"553"}
+{"lang_code":"ibo","generation":"V V PRN SYM NNC DEM NNC V NNC PRN V NNC V NNC PRN V NNC V NNC PRN V NNC V NNC PRN V NNC V NNC PRN V NNC V NNC PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"554"}
+{"lang_code":"ibo","generation":"WH V NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"555"}
+{"lang_code":"ibo","generation":"SYM V NNC V V V NNC V NNC SYM V NNP NNC PREP NNC V V V V V V","example_id":"556"}
+{"lang_code":"ibo","generation":"CD CONJ PREP NNC NNC DEM SYM ADV NNC V NNP V V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"557"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V NNC NNC NNC V V NNC PREP NNC PRN PRN PRN NNC PRN NNC NNC V V NNC NNC NNC NNC NNC NNC","example_id":"558"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC NNC PREP PREP NNC NNC V NNC NNC NNC SYM V SYM NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"559"}
+{"lang_code":"ibo","generation":"NNC V SYM V V NNC","example_id":"560"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM V V PREP PRN VPERF V V NNC SYM NNC PRN DEM V PREP NNC NNC PREP NNC V V V V V V V","example_id":"561"}
+{"lang_code":"ibo","generation":"CD PRN V NNC NNC V PREP NNC PRN NNC SYM","example_id":"562"}
+{"lang_code":"ibo","generation":"CD PRN SYM PREP NNC PRN NNC NNC V V V PRN NNC SYM","example_id":"563"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN NNC NNC V NNC NNC NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"564"}
+{"lang_code":"ibo","generation":"CD PRN NNC NNC V V PRN PREP NNC SYM V SYM WH NNC SYM","example_id":"565"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN VIF PRN VPERF PRN VAX NNC PREP NNC DEM NNC V V PREP NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC","example_id":"566"}
+{"lang_code":"ibo","generation":"PRN V PREP NNC NNC V V V NNC V NNC V NNC","example_id":"567"}
+{"lang_code":"ibo","generation":"CD CONJ SYM V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"568"}
+{"lang_code":"ibo","generation":"CD NNP VPRF PRN SYM NNC NNC V V SYM","example_id":"569"}
+{"lang_code":"ibo","generation":"CD V NNC PRN NNC CJN PRN V NNC PRN PREP NNC CJN PRN VPERF NNC NNC SYM ADV VPERF NNC PRN VPERF NNC NNC SYM","example_id":"570"}
+{"lang_code":"ibo","generation":"CD INTJ DEM NNC VPREP NNC V V SYM PRN V NNC PRN V NNC NNC NNC V NNC NNC NNC V NNC SYM","example_id":"571"}
+{"lang_code":"ibo","generation":"CD WH V CJN PRN VAX V NNC PRN V SYM PRN V V PRN V V","example_id":"572"}
+{"lang_code":"ibo","generation":"CD NNC NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"573"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC V NNC V ABBR NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"574"}
+{"lang_code":"ibo","generation":"CD NNC NNC DEM V PREP NNC NNC NNC DEM V V NNC","example_id":"575"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC PRN V V NNC CJN PRN V V NNC V V PREP NNC V NNC PRN NNC SYM NNC","example_id":"576"}
+{"lang_code":"ibo","generation":"CD NNC PRN V V V PRN NNC CJN PRN V V V PRN SYM V NNC PRN V V NNC SYM","example_id":"577"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC NNC NNC NNC V V NNC NNC NNC NNC NNC V NNC NNC NNC NNC V V NNC NNC V V","example_id":"578"}
+{"lang_code":"ibo","generation":"NNC NNC NNC NNP ABBR","example_id":"579"}
+{"lang_code":"ibo","generation":"CD V NNC PRN V NNC NNC NNC NNC NNC NNC NNC V NNC PRN V NNC PREP NNC V V NNC NNC NNC","example_id":"580"}
+{"lang_code":"ibo","generation":"PRN NNP V V NNC V V NNC V V NNC V V NNC V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"581"}
+{"lang_code":"ibo","generation":"PRN V VPREP NNC PREP NNC DEM V V V NNC V NNC V NNC PREP NNC V V V NNC","example_id":"582"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC NNP NNP V NNC PRN V SYM PREP NNC CJN V V SYM V NNC V V V NNC V V NNC V NNC NNC V NNC NNC NNC V NNC NNC NNC V NNC NNC NNC","example_id":"583"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC NNP NNC V NNC V PREP NNC CJN PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"584"}
+{"lang_code":"ibo","generation":"CD NNC PRN V NNC PRN PREP NNC CJN PRN V NNC NNC PREP NNC NNC NNC","example_id":"585"}
+{"lang_code":"ibo","generation":"CD CONJ PRN SYM WH V V V PRN V NNC CJN PRN V V PRN NNC SYM","example_id":"586"}
+{"lang_code":"ibo","generation":"CD PRN V V PRN PREP NNC PRN V NNC PRN V NNC PREP NNC NNC SYM","example_id":"587"}
+{"lang_code":"ibo","generation":"CD SYM NNC DEM CJN PRN DEM V NNC NNC NNC NNC V NNC NNC PREP NNP SYM V NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC","example_id":"588"}
+{"lang_code":"ibo","generation":"CD NNP V SYM V NNC NNC V NNC NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"589"}
+{"lang_code":"ibo","generation":"NNC V V NNC V V NNC V V NNC","example_id":"590"}
+{"lang_code":"ibo","generation":"CD PRN NNC NNC PRN V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"591"}
+{"lang_code":"ibo","generation":"CD NNC V SYM PRN NNC PRN V PREP NNC NNC V NNC NNC V V PREP PRN V NNC PREP NNC NNC V NNC NNC","example_id":"592"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM V V PRN V NNC NNC NNC PREP NNC V V V NNC V V V NNC V V V NNC V V NNC NNC NNC PREP NNC NNC SYM","example_id":"593"}
+{"lang_code":"ibo","generation":"NNC QTF V V V","example_id":"594"}
+{"lang_code":"ibo","generation":"NNC PRN V V V NNC PRN V V NNC V NNC NNC NNC","example_id":"595"}
+{"lang_code":"ibo","generation":"PRN V V V V V NNC NNC NNC PREP NNC PRN V","example_id":"596"}
+{"lang_code":"ibo","generation":"NNC CD","example_id":"597"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC V V NNC DEM NNC V NNC NNC V NNC NNC V V V V NNC V NNC NNC V NNC NNC NNC","example_id":"598"}
+{"lang_code":"ibo","generation":"CD NNC NNC CD","example_id":"599"}
+{"lang_code":"ibo","generation":"PRN V NNC PRN VAX VPRN PRN NNC PREP NNC V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"600"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V V NNC PREP NNC CJN PRN V NNC SYM V NNP V PRN SYM SYM V V NNC NNC V PREP NNC DEM PRN CJN NNC PRN NNC NNC SYM","example_id":"601"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC NNC PREP NNC SYM V SYM NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"602"}
+{"lang_code":"ibo","generation":"CD CONJ V V PRN NNC NNC PRN V V PRN V V PRN V V PRN V V PREP NNC V V NNC NNC SYM PREP NNC NNC V V NNC NNC SYM","example_id":"603"}
+{"lang_code":"ibo","generation":"CD PRN NNC NNC V V NNC WH V NNC PRN V PRN V NNC PRN V NNC NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"604"}
+{"lang_code":"ibo","generation":"CD V SYM PRN V V NNC NNC NNC V V NNC NNC NNC V SYM NNC NNC NNC V SYM PRN NNC NNC V NNC NNC NNC NNC NNC","example_id":"605"}
+{"lang_code":"ibo","generation":"CD NNC NNC DEM NNC V V PRN V V V V V NNC V NNC SYM","example_id":"606"}
+{"lang_code":"ibo","generation":"NNC NNC V NNC PRN NNC NNC V PREP NNC SYM NNC CD PRN V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"607"}
+{"lang_code":"ibo","generation":"CD ADV SYM PRN V VPRN PRN V V V PREP NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"608"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC ADV SYM","example_id":"609"}
+{"lang_code":"ibo","generation":"CD NNC CD","example_id":"610"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V NNC PRN V V PRN SYM","example_id":"611"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM NNC NNP V NNC NNC NNC V PRN V V SYM","example_id":"612"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC PRN PRN V V NNC V V NNC PRN V NNC PREP NNC NNC ADJ ;","example_id":"613"}
+{"lang_code":"ibo","generation":"CD CONJ PRN VPERF NNC NNC NNC SYM VPERF PRN VPERF NNC PRN VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPERF NNC VPER","example_id":"614"}
+{"lang_code":"ibo","generation":"CD V NNC PREP NNC PRN CJN PRN V V PRN ; PRN V NNC PRN V V NNC PRN V V NNC PRN V V PRN V V PRN","example_id":"615"}
+{"lang_code":"ibo","generation":"CD NNP V PRN SYM V NNC PRN V V NNC NNC SYM V NNC PRN V NNC SYM V NNC NNC SYM","example_id":"616"}
+{"lang_code":"ibo","generation":"PRN V V NNC PRN V V NNC V NNC NNC NNC","example_id":"617"}
+{"lang_code":"ibo","generation":"CD NNC VPERF PRN V V V V V","example_id":"618"}
+{"lang_code":"ibo","generation":"PREP NNC NNC V V CD V V NNP V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"619"}
+{"lang_code":"ibo","generation":"CD CONJ INTJ DEM NNC V V V V V SYM NNC PRN V V V V V SYM NNC V V V V V SYM","example_id":"620"}
+{"lang_code":"ibo","generation":"PREP NNC NNC DEM PRN V NNC PRN V V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"621"}
+{"lang_code":"ibo","generation":"CD PRN V NNC CD PRN V V NNC V NNC NNC NNC","example_id":"622"}
+{"lang_code":"ibo","generation":"CD NNC ADJ SYM PRN NNC NNC V V V V NNC NNC V V NNC PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"623"}
+{"lang_code":"ibo","generation":"NNC V V NNC PRN V NNC NNC NNC V NNC NNC NNC NNC NNC NNC","example_id":"624"}
+{"lang_code":"ibo","generation":"PRN NNC VPRN PRN V V NNC PRN CJN PRN V V NNC PREP NNC V NNC NNC SYM","example_id":"625"}
+{"lang_code":"ibo","generation":"PREP NNC SYM PRN NNC NNC NNC V NNC PRN NNC NNC NNC NNC","example_id":"626"}
+{"lang_code":"ibo","generation":"NNP CD","example_id":"627"}
+{"lang_code":"ibo","generation":"PRN NNC NNC V NNC PREP NNC NNC NNC NNC V NNC NNC NNC","example_id":"628"}
+{"lang_code":"ibo","generation":"CD PRN V VPRN PRN PREP NNC V V NNC V NNC PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"629"}
+{"lang_code":"ibo","generation":"CD CONJ V NNC NNC NNC NNC V NNC PREP NNC","example_id":"630"}
+{"lang_code":"ibo","generation":"CD PRN V NNC NNC PRN V NNC SYM V NNC PRN NNC PREP NNC SYM V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC NNC SYM","example_id":"631"}
+{"lang_code":"ibo","generation":"PRN PREP NNC V V NNC NNC","example_id":"632"}
+{"lang_code":"ibo","generation":"CD NNC V NNC PRN NNP V PREP NNC V V V NNC","example_id":"633"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN V PREP NNC V NNC PRN V NNC NNC PREP NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"634"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNC ADJ CJN NNC V V NNC NNC SYM V V NNC PRN V V NNC NNC SYM NNC V V NNC NNC SYM NNC V V NNC NNC SYM NNC V V NNC NNC SYM NNC V V NNC NNC SYM NNC V V NNC NNC SYM NNC V V NNC NNC SYM NNC V","example_id":"635"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN NNC ADV PREP NNC CJN PRN V V NNP SYM","example_id":"636"}
+{"lang_code":"ibo","generation":"NNP CD","example_id":"637"}
+{"lang_code":"ibo","generation":"NNC V VPRF PRN NNC V V NNC V V NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"638"}
+{"lang_code":"ibo","generation":"NNC NNC VPERF NNC NNC","example_id":"639"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN NNC PREP NNC PRN NNC NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"640"}
+{"lang_code":"ibo","generation":"NNC PRN V V V V V V V V V V V V V V V V NNC","example_id":"641"}
+{"lang_code":"ibo","generation":"PRN V NNC V NNC V CJN V NNC V NNC NNC","example_id":"642"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V NNC V V PRN CJN PRN V V SYM PRN SYM SYM PREP NNC V V PRN V NNC PRN V NNC NNC SYM NNC V V NNC NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V N","example_id":"643"}
+{"lang_code":"ibo","generation":"NNC NNC NNC NNC DEM V V NNC V NNC V NNC V NNC NNC NNC NNC NNC NNC","example_id":"644"}
+{"lang_code":"ibo","generation":"NNP CD","example_id":"645"}
+{"lang_code":"ibo","generation":"CD PREP NNC PRN DEM PRN V NNC CJN PRN V V PRN V NNC DEM V NNC V NNC","example_id":"646"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PREP NNC V NNC NNC PRN V NNC PREP NNC V NNC NNC NNC PREP NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"647"}
+{"lang_code":"ibo","generation":"PRN ADV NNC V NNC NNC PRN VAX NNC SYM","example_id":"648"}
+{"lang_code":"ibo","generation":"CD V NNC NNC V NNC CD V NNC CD V NNC CD V NNC","example_id":"649"}
+{"lang_code":"ibo","generation":"CD PRN VAXPRN NNC V V V PRN","example_id":"650"}
+{"lang_code":"ibo","generation":"PREP NNC PREP NNC NNC NNC V NNC V NNC CJN NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"651"}
+{"lang_code":"ibo","generation":"CD V V NNC CD PREP NNC V V PRN SYM V PRN V NNC NNC NNC V NNC NNC V V PRN V V PRN V","example_id":"652"}
+{"lang_code":"ibo","generation":"CD NNC V NNC DEM PRN V NNC V NNC V NNC","example_id":"653"}
+{"lang_code":"ibo","generation":"CD PRN VAX VPP PRN V V PRN V V NNC NNC NNC NNC PREP NNC V V PRN VAX VPP PRN NNC NNC","example_id":"654"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNP V NNC SYM V SYM SYM PREP NNC CJN DEM CJN PRN V PRN NNC CJN PRN V PRN V CJN PRN V NNC PRN NNC NNC SYM","example_id":"655"}
+{"lang_code":"ibo","generation":"CD V NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"656"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC PRN SYM PRN V NNC CD ; PRN VPRF PRN NNC VPRF PRN NNC VPRF PRN NNC SYM","example_id":"657"}
+{"lang_code":"ibo","generation":"CD PREP NNC DEM V V V NNC NNC NNC V NNC V SYM NNC V V SYM WH NNC NNC PRN V V PRN V V V V NNC NNC V V V NNC NNC V V V NNC NNC SYM","example_id":"658"}
+{"lang_code":"ibo","generation":"CD SYM V V NNC V V PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"659"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC V V V V V V V V V V V V","example_id":"660"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC ADV V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"661"}
+{"lang_code":"ibo","generation":"PRN ADV V V NNC V NNC V NNC V V NNC PREP NNC SYM","example_id":"662"}
+{"lang_code":"ibo","generation":"CD V V NNC V PREP NNC V V NNC V NNC V V NNC","example_id":"663"}
+{"lang_code":"ibo","generation":"CD V V NNP NNC PREP NNC CJN PRN V NNC NNC NNC NNC NNC V V V SYM PRN V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"664"}
+{"lang_code":"ibo","generation":"CD NNC PRN NNC V V PRN SYM V NNC PRN V V NNC V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"665"}
+{"lang_code":"ibo","generation":"CD CONJ DEM PRN V NNC PRN V NNC SYM V V SYM V SYM WH PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC PRN V NNC SYM V NNC SYM","example_id":"666"}
+{"lang_code":"ibo","generation":"NNC DEM V NNC NNC NNC CD NNC PREP NNC SYM","example_id":"667"}
+{"lang_code":"ibo","generation":"NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"668"}
+{"lang_code":"ibo","generation":"CD V V PREP NNC NNC NNC NNC NNC V V V V V V V V V V","example_id":"669"}
+{"lang_code":"ibo","generation":"CD V SYM PRN SYM WH V NNC DEM CD PREP NNC SYM V PRN V PRN V V NNC NNC NNC PRN V NNC PREP NNC NNC NNC SYM","example_id":"670"}
+{"lang_code":"ibo","generation":"CD V V PRN SYM V V NNC NNC V PRN V","example_id":"671"}
+{"lang_code":"ibo","generation":"CD CJN NNC V NNC NNC V NNC NNC V NNC NNC V NNC PRN V V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"672"}
+{"lang_code":"ibo","generation":"PRN V PREP NNC NNC DEM CJN PRN V V V V NNC NNC","example_id":"673"}
+{"lang_code":"ibo","generation":"CD NNC ADJ V SYM PRN V NNC PREP PRN VPERF PRN V V SYM","example_id":"674"}
+{"lang_code":"ibo","generation":"NNC ADV PREP NNC NNC PRN V V ADV CD CJN NNC","example_id":"675"}
+{"lang_code":"ibo","generation":"CD PRN V VPRN PRN V V V PRN V PREP NNC SYM","example_id":"676"}
+{"lang_code":"ibo","generation":"SYM NNC PRN V V ADV PREP NNC","example_id":"677"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC NNC PREP NNP SYM CJN PRN VPERF_XS PRN VAX VPERF NNC PRN VAX VPERF NNC NNC NNC NNC NNC","example_id":"678"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC NNC PREP NNC SYM PRN V NNC V NNC V NNC V NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"679"}
+{"lang_code":"ibo","generation":"CD NNP V NNC NNC SYM CJN PRN V NNC NNC NNC V NNC NNC NNC V NNC PRN NNC SYM","example_id":"680"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM V NNC PRN V PRN V V NNC NNC V NNC NNC V NNC NNC V NNC","example_id":"681"}
+{"lang_code":"ibo","generation":"CD PRN VAX VPP NNC PRN V V PRN V V NNC NNC PRN V V NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"682"}
+{"lang_code":"ibo","generation":"CD WH V NNC NNC NNC VAX V PRN V V NNC VAX V NNC V NNC NNC V NNC NNC NNC V NNC NNC NNC V NNC NNC NNC V NNC NNC NNC","example_id":"683"}
+{"lang_code":"ibo","generation":"CD V V NNC DEM V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"684"}
+{"lang_code":"ibo","generation":"PRN NNC VAX V V V V V","example_id":"685"}
+{"lang_code":"ibo","generation":"CD V V PREP NNC NNC V PREP NNC NNC V V V V NNC V NNC NNC NNC","example_id":"686"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN DEM V NNC V NNC NNC V V NNC PREP NNC V V NNC SYM CJN NNC V V NNC V V","example_id":"687"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC NNC NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"688"}
+{"lang_code":"ibo","generation":"CD NNC ADJ V V NNC V NNC NNC PRN NNC PREP NNC NNC V NNC PRN NNC","example_id":"689"}
+{"lang_code":"ibo","generation":"CD NNC V NNC PREP NNC NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"690"}
+{"lang_code":"ibo","generation":"CD PRN VPRN PRN SYM WH PREP PRN V V PRN V V PRN V PREP NNC V V PRN V SYM NNC NNC NNC","example_id":"691"}
+{"lang_code":"ibo","generation":"CD PRN NNC CJN NNC NNC DEM NNC CJN NNC NNC NNC NNC NNC NNC NNC","example_id":"692"}
+{"lang_code":"ibo","generation":"CD NNC NNP V PREP NNC NNC , NNC VAX V PRN , V V PRN SYM : \" PRN V V PRN V V NNC SYM \" PRN V PRN SYM : \" SYM NNC NNC . \"","example_id":"693"}
+{"lang_code":"ibo","generation":"CD CJN SYM ADV ADV CJN V SYM V SYM NNC V V DEM V PRN V SYM V V NNC V SYM V V SYM","example_id":"694"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN V V NNC V V SYM V SYM SYM PREP NNC NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"695"}
+{"lang_code":"ibo","generation":"CD VPERF_BPRN_XS PRN NNC V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"696"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN VPERF_XS CD NNC NNC PREP NNC PRN V V V PRN V V V PRN V V V PRN NNC SYM","example_id":"697"}
+{"lang_code":"ibo","generation":"CD CJN NNC VPERF PRN NNC V V NNC PREP NNC NNC V V NNC DEM","example_id":"698"}
+{"lang_code":"ibo","generation":"PRN V V NNC NNC NNC NNC V V NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"699"}
+{"lang_code":"ibo","generation":"PRN NNC NNC CD V V V NNC PRN V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"700"}
+{"lang_code":"ibo","generation":"CD V V SYM V SYM PRN WH V PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC V PRN V","example_id":"701"}
+{"lang_code":"ibo","generation":"CD PRN SYM PREP NNP V V V PRN V V PRN SYM V PRN SYM SYM WH V V V SYM","example_id":"702"}
+{"lang_code":"ibo","generation":"CD NNC NNC VPERF PRN V NNC ADJ SYM","example_id":"703"}
+{"lang_code":"ibo","generation":"CD PREP NNC DEM CD SYM PRN V V NNC NNC NNC PRN V V NNC NNC NNC SYM NNC PRN V NNC NNC NNC SYM NNP SYM","example_id":"704"}
+{"lang_code":"ibo","generation":"CD NNC NNC PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"705"}
+{"lang_code":"ibo","generation":"PREP NNC VAX_XS ADV PRN NNC NNC VPERF NNC NNC PRN","example_id":"706"}
+{"lang_code":"ibo","generation":"CD NNP V PRN SYM SYM PREP NNC SYM PREP NNC SYM VPERF_XS PRN V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"707"}
+{"lang_code":"ibo","generation":"CD NNC V V NNC PRN VAX V NNC NNC NNC NNC NNC V V CJN PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"708"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN V NNP SYM V SYM SYM PRN V NNP SYM SYM PRN VPRF V PRN V NNC SYM","example_id":"709"}
+{"lang_code":"ibo","generation":"CD V NNC V V PRN V V PREP NNC ADJ NNC CJN PREP NNC ADJ NNC SYM","example_id":"710"}
+{"lang_code":"ibo","generation":"CD V V ADV PRN V NNC QTF NNC NNC CD NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"711"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V V PRN CJN PRN V V PRN","example_id":"712"}
+{"lang_code":"ibo","generation":"CD NNC DEM V V PRN SYM V NNC SYM NNP V PRN SYM SYM V PRN SYM V V SYM V SYM V NNC SYM","example_id":"713"}
+{"lang_code":"ibo","generation":"CD NNP V SYM V NNC NNC V NNC NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"714"}
+{"lang_code":"ibo","generation":"NNC V NNC V V NNC PRN V NNC NNC PREP NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC NNC NNC","example_id":"715"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN SYM WH V PRN VAX V NNC PRN V V NNC NNC NNC NNC SYM","example_id":"716"}
+{"lang_code":"ibo","generation":"CD NNP NNC SYM NNC SYM PREP PRN VAX NNP V V PREP NNC SYM","example_id":"717"}
+{"lang_code":"ibo","generation":"NNC V V V SYM V SYM WH V NNC SYM CJN PRN V SYM SYM NNC V V SYM V V V SYM WH V NNC SYM CJN PRN V SYM SYM NNC V V SYM","example_id":"718"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC V SYM V SYM SYM NNC NNC V V CJN PRN V PREP NNC PRN V PREP NNC V V V NNC V V V NNC V","example_id":"719"}
+{"lang_code":"ibo","generation":"CD PRN V SYM V V NNC V V DEM V V NNC V NNC V NNC V NNC","example_id":"720"}
+{"lang_code":"ibo","generation":"PRN V V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"721"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC PRN CJN V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"722"}
+{"lang_code":"ibo","generation":"CD VCO SYM NNC NNC V V NNC PRN NNC NNC NNC NNC PREP NNC V SYM SYM V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"723"}
+{"lang_code":"ibo","generation":"CD V NNC V NNC NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"724"}
+{"lang_code":"ibo","generation":"PRN NNC NNC NNC VAX V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"725"}
+{"lang_code":"ibo","generation":"NNC V NNC NNC NNC NNC NNC V V V V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"726"}
+{"lang_code":"ibo","generation":"CD V V PRN V PREP NNC CJN V PREP NNC NNC NNC NNC NNC","example_id":"727"}
+{"lang_code":"ibo","generation":"CD WH PRN V NNC PREP NNP V SYM NNC V SYM NNC PRN V SYM SYM NNP V PRN SYM SYM NNP NNC SYM","example_id":"728"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V NNC ADJ CJN NNC NNC NNC","example_id":"729"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V NNC PREP NNC CJN PRN V NNC NNC V NNC NNC V NNC DEM V V V NNC NNC V NNC DEM V V V NNC NNC V V","example_id":"730"}
+{"lang_code":"ibo","generation":"CD PRN V V ADV SYM V SYM V NNC V V NNC PRN V V NNC NNC V V NNC NNC V V NNC PRN V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V N","example_id":"731"}
+{"lang_code":"ibo","generation":"CD VAXPRN ADJ CJN NNC VPERF NNC NNC PREP NNC VAXPRN NNC NNC VPERF NNC NNC NNC VPERF NNC NNC","example_id":"732"}
+{"lang_code":"ibo","generation":"CD NNP NNC PRN PREP NNC NNC CD CD SYM V V NNC NNC V V NNC PRN NNC SYM","example_id":"733"}
+{"lang_code":"ibo","generation":"CD V NNC PRN V NNC PRN V NNC NNC V NNC V NNC V NNC PREP NNC SYM","example_id":"734"}
+{"lang_code":"ibo","generation":"CD CJN PRN V V V NNC NNP NNP NNC","example_id":"735"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM NNC NNC NNC V NNC PREP NNC V V SYM","example_id":"736"}
+{"lang_code":"ibo","generation":"CD NNP VPRF PRN SYM V SYM NNC ADJ V VPRF PRN SYM V NNC SYM SYM NNC SYM SYM NNC SYM SYM NNC SYM SYM NNC SYM SYM NNC SYM","example_id":"737"}
+{"lang_code":"ibo","generation":"CD PRN VAXPRN V V NNC CJN PRN V V NNC","example_id":"738"}
+{"lang_code":"ibo","generation":"CD SYM V NNC NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"739"}
+{"lang_code":"ibo","generation":"CD ADV NNC DEM PREP NNC CJN V NNC PRN V NNC V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"740"}
+{"lang_code":"ibo","generation":"CD PRN V NNC PRN DEM NNC NNC NNC NNC NNC NNC NNC CJN NNC NNC V V NNC NNC CJN NNC NNC NNC","example_id":"741"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN VAXPRN PRN V V NNC V V V NNC PRN V V NNC V NNC CD V NNC","example_id":"742"}
+{"lang_code":"ibo","generation":"CD V V PRN SYM NNC NNC NNC V NNC NNC PRN SYM PREP NNC PRN NNC V NNC NNC NNC","example_id":"743"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN V CJN PRN V V PRN V V PRN V NNC PRN V V NNC PREP NNC NNC PREP NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"744"}
+{"lang_code":"ibo","generation":"PRN V VPP PRN V NNC DEM","example_id":"745"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC NNC V PREP NNC V V V PRN V V SYM V NNC NNC V V V V V SYM","example_id":"746"}
+{"lang_code":"ibo","generation":"CD VAX V NNC PREP NNC DEM PREP NNC V V NNC PREP NNC DEM NNC","example_id":"747"}
+{"lang_code":"ibo","generation":"CD CJN V NNC CD ADV PRN V V NNC NNC PREP NNC NNC","example_id":"748"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM V NNC NNC NNC NNC NNC SYM V VPRF NNC NNC NNC NNC SYM V VPRF NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"749"}
+{"lang_code":"ibo","generation":"CD V V NNC PRN NNC PREP NNC V V NNC V V NNC V NNC NNC V V NNC V NNC SYM SYM V PREP NNC V NNC SYM","example_id":"750"}
+{"lang_code":"ibo","generation":"CD VAXPRN V V NNC NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V","example_id":"751"}
+{"lang_code":"ibo","generation":"NNC PRN V V V NNC NNC SYM","example_id":"752"}
+{"lang_code":"ibo","generation":"PRN VAX V NNC PREP NNC NNC PRN VPERF_XS NNC NNC NNC VPERF NNC NNC NNC VAX NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"753"}
+{"lang_code":"ibo","generation":"NNC V NNC V V PRN V V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"754"}
+{"lang_code":"ibo","generation":"NNC CD","example_id":"755"}
+{"lang_code":"ibo","generation":"CD PRN NNC PRN NNC PRN V NNC SYM PREP NNC V V PRN V NNC NNC V V PRN NNC V NNC NNC V NNC NNC V NNC NNC","example_id":"756"}
+{"lang_code":"ibo","generation":"CD PREP NNC V V V NNC V NNC NNC NNC NNC NNC NNC","example_id":"757"}
+{"lang_code":"ibo","generation":"PRN V V ADV PRN V V PREP NNC NNC NNC CJN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"758"}
+{"lang_code":"ibo","generation":"CD CONJ NNC V PREP NNC ADJ V NNC V NNC V NNC V NNC V NNC V V V V V V","example_id":"759"}
+{"lang_code":"ibo","generation":"CD NNC ADJ DEM V V NNC CJN NNC V V NNC V SYM NNC DEM V NNC NNC NNC NNC NNC V V NNC NNC NNC NNC V V NNC NNC SYM","example_id":"760"}
+{"lang_code":"ibo","generation":"CD NNP NNC V CD NNC V V NNC CJN NNC V NNC","example_id":"761"}
+{"lang_code":"ibo","generation":"PRN V NNC V V PRN V V V V V V V V V V V V V V V V","example_id":"762"}
+{"lang_code":"ibo","generation":"CD NNP NNC NNC NNC NNC NNP NNC V V PRN NNC NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"763"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC V V NNC DEM NNC V NNC V NNC NNC NNC NNC","example_id":"764"}
+{"lang_code":"ibo","generation":"PREP NNC CJN NNC V V NNC NNC NNC PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"765"}
+{"lang_code":"ibo","generation":"PRN VAX V NNC V V NNC","example_id":"766"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN NNC PRN V V NNC V V NNC PRN V NNC PRN V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"767"}
+{"lang_code":"ibo","generation":"CD PRN VAX VPERF NNC PRN VAX VPP PRN PREP NNC CJN PRN VPERF NNC DEM NNC NNC VAX VPP PRN V V V PRN V V NNC SYM","example_id":"768"}
+{"lang_code":"ibo","generation":"NNC PRN V NNC PREP PRN V PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"769"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC N","example_id":"770"}
+{"lang_code":"ibo","generation":"CD PREP NNC DEM CD SYM PRN V V NNC NNC NNC PRN V V NNC NNC NNC SYM NNC PRN V NNC NNC NNC SYM NNP SYM","example_id":"771"}
+{"lang_code":"ibo","generation":"CD PRN NNC V NNC NNC NNC NNC V NNC NNC V NNC NNC V NNC","example_id":"772"}
+{"lang_code":"ibo","generation":"CD NNC DEM V V NNC V CJN PRN V V PRN NNC NNP","example_id":"773"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNC PRN V NNC NNC NNC PRN V NNC PRN NNC NNC NNC","example_id":"774"}
+{"lang_code":"ibo","generation":"NNC SYM NNC NNC V SYM PRN V NNC V PREP NNC NNC DEM","example_id":"775"}
+{"lang_code":"ibo","generation":"CD NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"776"}
+{"lang_code":"ibo","generation":"V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"777"}
+{"lang_code":"ibo","generation":"PRN V NNC PREP PRN V DEM NNC CJN PRN V NNC V","example_id":"778"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC V V PRN NNC CD V V PRN V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"779"}
+{"lang_code":"ibo","generation":"PREP NNC SYM NNC NNC PRN V V V V","example_id":"780"}
+{"lang_code":"ibo","generation":"NNC V V NNC V V PRN V V","example_id":"781"}
+{"lang_code":"ibo","generation":"V NNC PRN CD PRN V NNC CD","example_id":"782"}
+{"lang_code":"ibo","generation":"PRN NNC V V NNC CD PRN V V NNC CD NNC V V NNC CD NNC V V NNC NNC NNC","example_id":"783"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V V NNC NNC V NNC PRN V NNC NNC V NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"784"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC PRN NNC V V NNC PRN CJN PRN V V PRN V V PREP NNC SYM NNC V V NNC NNC V V NNC NNC","example_id":"785"}
+{"lang_code":"ibo","generation":"PRN V PREP NNC NNC NNC NNC V PREP NNC V NNC V NNC PRN V","example_id":"786"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"787"}
+{"lang_code":"ibo","generation":"PRN NNC NNC VAX VAX VAX VAX VAX VAX","example_id":"788"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNC PRN V NNC V CD NNC NNC NNC NNC NNC NNC NNC V NNC NNC NNC NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC","example_id":"789"}
+{"lang_code":"ibo","generation":"CD NNC PRN V NNC DEM NNC V V NNC PREP NNC V V NNC V V NNC V","example_id":"790"}
+{"lang_code":"ibo","generation":"CD CONJ NNC NNC ADJ NNC NNC NNC V V PREP NNC V V V V V V V V V V V V","example_id":"791"}
+{"lang_code":"ibo","generation":"NNC PRN V NNC PREP NNC V BPRN DEM V NNC V NNC PREP NNC V NNC V NNC NNC V NNC PREP NNC NNC","example_id":"792"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"793"}
+{"lang_code":"ibo","generation":"NNC NNC V V PREP NNC CJN NNC CJN NNC PRN V V V V NNC NNC V PREP NNC V V NNC NNC NNC NNC NNC NNC NNC","example_id":"794"}
+{"lang_code":"ibo","generation":"NNC NNC PRN NNC V V NNC DEM SYM","example_id":"795"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC DEM PRN NNC V V NNC CJN PRN V NNC PREP NNC PRN DEM V NNC NNC CJN NNC V NNC PRN NNC V NNC NNC V NNC V NNC","example_id":"796"}
+{"lang_code":"ibo","generation":"CD LTT ADV V ADV V NNC PREP NNC CJN NNC PREP NNC CJN NNC PREP NNC CJN NNC PREP NNC CJN NNC CJN NNC CJN NNC V NNC PREP NNC V NNC CD V PREP NNC V NNC CD V","example_id":"797"}
+{"lang_code":"ibo","generation":"CD PRN PRN SYM PREP NNC V NNC CD V V V V V V","example_id":"798"}
+{"lang_code":"ibo","generation":"CD PRN V VPRN NNC DEM NNC V VPRN PRN V VPRN NNC V VPRN NNC","example_id":"799"}
+{"lang_code":"ibo","generation":"CD V V SYM NNC V ABBR V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"800"}
+{"lang_code":"ibo","generation":"PRN V PREP NNC PREP NNC NNC PRN V V NNC V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"801"}
+{"lang_code":"ibo","generation":"NNC V V CD CD V V PREP NNC V V NNC NNC SYM","example_id":"802"}
+{"lang_code":"ibo","generation":"CD NNC NNC ADJ ADJ SYM V V NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"803"}
+{"lang_code":"ibo","generation":"V V SYM V NNC PRN PREP NNC V","example_id":"804"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN VAXPRN PRN VAXPRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC VAXPRN NNC VAXPRN NNC VAXPRN NNC VAXPRN NNC VAXPRN NNC VAXPRN NNC VAXPRN NNC VAXPRN NNC VAXPRN NNC VAXPRN NNC V","example_id":"805"}
+{"lang_code":"ibo","generation":"NNC PRN V SYM V CD DEM CJN NNP V V PRN","example_id":"806"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V V PRN V V PRN NNC NNC V V PRN NNC NNC V V PRN NNC NNC V V PRN NNC V V PRN NNC V V","example_id":"807"}
+{"lang_code":"ibo","generation":"NNC PRN V PREP NNC NNC NNC V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"808"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V NNC PREP NNC CD NNC NNC CD NNC NNC NNC NNC V NNC NNC NNC NNC NNC NNC","example_id":"809"}
+{"lang_code":"ibo","generation":"PRN V V SYM NNP NNC V V SYM","example_id":"810"}
+{"lang_code":"ibo","generation":"PRN V NNC V V V NNC PRN NNC","example_id":"811"}
+{"lang_code":"ibo","generation":"PRN V V NNC PREP NNC CJN V V PREP NNC V","example_id":"812"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"813"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM NNC VPERF VPERF NNC NNC NNC","example_id":"814"}
+{"lang_code":"ibo","generation":"NNP CD","example_id":"815"}
+{"lang_code":"ibo","generation":"PRN V V NNC SYM NNC V PREP NNC NNC SYM PRN V VPRN NNC NNC NNC NNC SYM","example_id":"816"}
+{"lang_code":"ibo","generation":"PRN V V NNC NNC V NNC V NNC NNC SYM NNC NNC NNC NNC NNC","example_id":"817"}
+{"lang_code":"ibo","generation":"PRN V VPRN NNC CJN V V V NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"818"}
+{"lang_code":"ibo","generation":"NNC V V NNC V NNC V NNC V NNC NNC NNC NNC NNC NNC V NNC NNC NNC","example_id":"819"}
+{"lang_code":"ibo","generation":"PREP NNC CJN PRN V NNC ADJ V V NNC V NNC V NNC PRN V NNC V NNC V NNC","example_id":"820"}
+{"lang_code":"ibo","generation":"CD INTJ PRN V V PRN V NNC PRN V NNC PRN V V NNC PRN V NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"821"}
+{"lang_code":"ibo","generation":"CD NNC SYM PRN V NNC PREP NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"822"}
+{"lang_code":"ibo","generation":"NNC V SYM SYM NNC NNC V SYM SYM NNC SYM SYM NNC SYM V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"823"}
+{"lang_code":"ibo","generation":"WH V V PRN V V SYM V NNC PRN V NNC NNC NNC SYM V V V PRN V NNC NNC NNC NNC SYM","example_id":"824"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN VPERF V V PREP NNC V NNC PRN NNC NNC NNC NNC NNC","example_id":"825"}
+{"lang_code":"ibo","generation":"CD V V V PREP NNC V V PREP NNC V NNC V NNC V V V","example_id":"826"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC NNP V PREP NNC PRN NNC V V PRN V V NNC NNC V V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V","example_id":"827"}
+{"lang_code":"ibo","generation":"CD NNC CJN NNC CJN NNC CJN NNC V NNC PREP NNC CJN NNC CJN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"828"}
+{"lang_code":"ibo","generation":"CD PRN NNC V V NNC PRN NNC NNC NNC NNC NNC","example_id":"829"}
+{"lang_code":"ibo","generation":"CD NNP V SYM V SYM WH V PRN V V DEM PRN V V PRN V NNC PRN V SYM","example_id":"830"}
+{"lang_code":"ibo","generation":"CD NNC V SYM PRN NNC V V NNC V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V","example_id":"831"}
+{"lang_code":"ibo","generation":"CD PRN SYM V NNC NNC NNC NNC V NNC NNC NNC V NNC PREP NNC PREP NNC V V NNC V V NNC","example_id":"832"}
+{"lang_code":"ibo","generation":"CD PRN NNC NNC V V PREP NNC PREP NNC V V V NNC V V NNC","example_id":"833"}
+{"lang_code":"ibo","generation":"CD NNC V SYM PRN V NNC NNC NNC PREP NNC PREP NNC PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"834"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNP V NNC V NNC NNC NNC NNC V NNC PRN V NNC NNC NNC","example_id":"835"}
+{"lang_code":"ibo","generation":"V NNC NNC PREP NNC PREP NNC NNC NNC NNC NNC NNC NNC","example_id":"836"}
+{"lang_code":"ibo","generation":"CD CONJ VPRF PRN NNC DEM V V NNC PRN VPERF PRN VPRF PRN VPRF PRN VPRF NNC NNC SYM PREP NNC PRN VPRF PRN VPRF NNC NNC NNC VPRF NNC","example_id":"837"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNC DEM PRN V NNC PREP NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"838"}
+{"lang_code":"ibo","generation":"CD V V NNC V PREP NNC V V NNC V NNC V V NNC","example_id":"839"}
+{"lang_code":"ibo","generation":"CD SYM PRN VAX V NNC V NNC NNC PRN VAX V NNC NNP SYM","example_id":"840"}
+{"lang_code":"ibo","generation":"V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC","example_id":"841"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM NNC VPERF V NNC NNC NNC NNC NNC NNC NNC NNC CJN PREP PREP VPERF PRN PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"842"}
+{"lang_code":"ibo","generation":"CD NNC NNC NNC NNC PREP NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"843"}
+{"lang_code":"ibo","generation":"CD V V V V PRN V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"844"}
+{"lang_code":"ibo","generation":"CD NNC NNP CD","example_id":"845"}
+{"lang_code":"ibo","generation":"PRN V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"846"}
+{"lang_code":"ibo","generation":"CD PRN V PREP NNC V NNC NNC PRN V V PREP NNC V V PREP NNC V NNC NNC NNC","example_id":"847"}
+{"lang_code":"ibo","generation":"NNC NNP CD","example_id":"848"}
+{"lang_code":"ibo","generation":"PREP NNC SYM VPERF PRN VPERF_XS ; NNC V NNC PRN V V SYM PRN V NNC NNC V NNC NNC SYM PRN V NNC V NNC NNC SYM","example_id":"849"}
+{"lang_code":"ibo","generation":"CD SYM ADJ NNC V V NNC PREP NNC NNC V NNC NNC NNC NNC","example_id":"850"}
+{"lang_code":"ibo","generation":"CD V NNC SYM NNC CD V SYM PRN V NNC PREP NNC NNC V V NNC NNC NNC NNC NNC V V PRN V V NNC","example_id":"851"}
+{"lang_code":"ibo","generation":"CD V NNC NNC CJN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"852"}
+{"lang_code":"ibo","generation":"CD V V SYM PRN V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V","example_id":"853"}
+{"lang_code":"ibo","generation":"V V NNC CD PRN V NNC","example_id":"854"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNC DEM PRN VAX V V PRN V V CJN PRN V NNC PREP NNC ; PRN DEM PRN VAX V V PRN V V NNC PRN V NNC","example_id":"855"}
+{"lang_code":"ibo","generation":"CD PREP NNC VAX V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC SYM","example_id":"856"}
+{"lang_code":"ibo","generation":"NNC NNC VAX PREP NNC NNC CJN V V PREP NNC NNC CJN V V PRN VAX VPP NNC V V NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"857"}
+{"lang_code":"ibo","generation":"CD CJN NNC VPERF NNC PREP NNC V VAXPRN NNC PREP NNC V VAXPRN NNC PREP NNC NNC SYM","example_id":"858"}
+{"lang_code":"ibo","generation":"CD VPERF NNC NNC NNC NNC NNC NNC PRN NNC NNC NNC V V PRN V V V","example_id":"859"}
+{"lang_code":"ibo","generation":"CD WH V PREP PRN V V NNC CJN PRN NNC NNC VAX VAX PRN VAX VAX SYM PREP NNC VPERF SYM WH V V V V V V SYM","example_id":"860"}
+{"lang_code":"ibo","generation":"CD V NNC NNC PRN NNC V V NNC V NNC V NNC V NNC NNC V NNC NNC NNC NNC V NNC NNC NNC NNC SYM","example_id":"861"}
+{"lang_code":"ibo","generation":"PRN NNC NNC CD CD V V V V V","example_id":"862"}
+{"lang_code":"ibo","generation":"PRN V SYM SYM NNC PRN SYM PRN V NNC NNC SYM PRN V SYM PRN V PRN SYM SYM","example_id":"863"}
+{"lang_code":"ibo","generation":"CD PRN V NNC PRN V NNC NNC V NNC PRN V NNC V NNC PRN V NNC V NNC PRN V NNC V NNC","example_id":"864"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V NNC CD NNC V V V PREP NNC V V SYM","example_id":"865"}
+{"lang_code":"ibo","generation":"CD V V PRN SYM V NNC PRN V NNC NNC NNC V NNC PRN V NNC NNC V NNC NNC SYM","example_id":"866"}
+{"lang_code":"ibo","generation":"CD NNC PRN V V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC V V NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"867"}
+{"lang_code":"ibo","generation":"CD PRN V V V NNC NNC V NNC PRN NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"868"}
+{"lang_code":"ibo","generation":"CD NNC VPREP NNC NNC V V NNC PRN V V PRN V V PRN V V","example_id":"869"}
+{"lang_code":"ibo","generation":"CD ADV INTJ PRN V NNC CD NNC V V PRN V V SYM PRN V V SYM SYM NNC V V PRN V V SYM SYM NNC V V PRN V V","example_id":"870"}
+{"lang_code":"ibo","generation":"NNC NNP CD","example_id":"871"}
+{"lang_code":"ibo","generation":"CD V V V PRN V NNC V NNC V NNC DEM CD","example_id":"872"}
+{"lang_code":"ibo","generation":"CD PRN V NNC NNC CD PRN V V NNC V V NNC NNC V V NNC NNC V V NNC NNC V NNC SYM","example_id":"873"}
+{"lang_code":"ibo","generation":"CD SYM NNC NNC V V NNC NNC PREP NNC NNC SYM PREP NNC V NNC NNC V V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V N","example_id":"874"}
+{"lang_code":"ibo","generation":"CD V NNC PRN NNC NNC NNC NNC V V V V V V V PREP NNC V NNC NNC","example_id":"875"}
+{"lang_code":"ibo","generation":"CD PRN NNC V PREP NNC NNC NNC V PRN NNC V NNC","example_id":"876"}
+{"lang_code":"ibo","generation":"CD NNC DEM NNC V V NNP V PREP NNC NNC V V SYM V SYM :","example_id":"877"}
+{"lang_code":"ibo","generation":"PRN V PREP NNC CJN PRN V V PRN V NNC V V NNC V V NNC V NNC NNC V NNC NNC","example_id":"878"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"879"}
+{"lang_code":"ibo","generation":"CD NNC V NNC V V V V V V NNC NNC NNC NNC NNC","example_id":"880"}
+{"lang_code":"ibo","generation":"CD SYM V NNC V NNC NNC V V NNC PRN V V NNC PRN V V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"881"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V V NNC NNC NNC V V PRN","example_id":"882"}
+{"lang_code":"ibo","generation":"CD V V NNC PRN V V PRN V V NNC V NNC V NNC V NNC SYM PRN NNC NNC V V NNC V NNC","example_id":"883"}
+{"lang_code":"ibo","generation":"WH PREP NNC ADJ V V PRN DEM V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"884"}
+{"lang_code":"ibo","generation":"CD PREP NNC DEM PRN V NNC PREP NNC V NNC NNC SYM","example_id":"885"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC V V NNC PRN NNC NNC CJN V NNC NNC NNC PREP NNC NNC NNC SYM NNC NNC NNC CJN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"886"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN NNC VPERF VPERF_XS PRN V V NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"887"}
+{"lang_code":"ibo","generation":"CD VPRF PRN V V NNC V V V V V V PRN V V V V NNC PREP NNC V V NNC SYM","example_id":"888"}
+{"lang_code":"ibo","generation":"CD NNC NNP V NNC PRN V V SYM PRN V V SYM NNC V V V PREP NNC PRN V NNC NNC NNC SYM","example_id":"889"}
+{"lang_code":"ibo","generation":"NNC V V V PRN V NNC PREP NNC SYM PREP NNC NNC ; PRN V NNC NNC ,","example_id":"890"}
+{"lang_code":"ibo","generation":"CD CONJ PRN V PRN SYM V NNC PRN V NNC V NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC N","example_id":"891"}
+{"lang_code":"ibo","generation":"CD V NNC NNC NNC PRN V V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V NNC V V V N","example_id":"892"}
+{"lang_code":"ibo","generation":"CD CJN V V V NNC PREP NNC V NNC DEM NNC V V V NNC NNC V NNC NNC","example_id":"893"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC NNC NNC NNC V PRN SYM NNC NNC V SYM NNC NNC V V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"894"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN V NNC CD NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"895"}
+{"lang_code":"ibo","generation":"CD NNP V V PRN SYM PREP NNC SYM V PRN V PRN SYM PREP NNC NNC V V PRN V CD SYM","example_id":"896"}
+{"lang_code":"ibo","generation":"CD V V PRN V NNC CJN PRN V V NNC V V PREP NNC PRN V PREP NNC CJN NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V N","example_id":"897"}
+{"lang_code":"ibo","generation":"CD CONJ VAX VAX PRN V NNC DEM NNC NNC NNC NNC NNC PREP NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"898"}
+{"lang_code":"ibo","generation":"NNC V V NNC V NNC PREP NNC NNC V NNC SYM","example_id":"899"}
+{"lang_code":"ibo","generation":"CD PRN V NNC SYM V SYM CD V V NNC NNC NNC SYM","example_id":"900"}
+{"lang_code":"ibo","generation":"CD CONJ PRN DEM PRN V NNC V PREP NNC V V V NNC V NNC V NNC V NNC","example_id":"901"}
+{"lang_code":"ibo","generation":"NNC V NNC V NNC NNC PREP NNC CJN PREP NNC CJN PREP NNC V NNC","example_id":"902"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN NNC V NNC DEM PRN V PREP NNC NNC CJN PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"903"}
+{"lang_code":"ibo","generation":"PRN NNC NNC PRN NNC PRN PRN V NNC NNC PRN V V NNC NNC NNC","example_id":"904"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN V NNC CD NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"905"}
+{"lang_code":"ibo","generation":"NNC V V NNC PREP NNC V V V","example_id":"906"}
+{"lang_code":"ibo","generation":"CD VAX V V NNC PRN PREP NNC NNC SYM VAX V V NNC PRN V V NNC PRN V V NNC PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"907"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V V NNC NNC NNC V V PRN V V SYM SYM PRN NNC NNC NNC V V PRN V V V NNC NNC NNC V V","example_id":"908"}
+{"lang_code":"ibo","generation":"CD NNC PREP NNC NNC NNC NNC NNC NNC NNC V V PRN V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"909"}
+{"lang_code":"ibo","generation":"NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"910"}
+{"lang_code":"ibo","generation":"PRN V NNC PREP NNC V V NNC PREP NNC PRN V NNC NNC NNC SYM","example_id":"911"}
+{"lang_code":"ibo","generation":"CD INTJ PRN NNC V NNC V NNC PRN V NNC NNC V NNC NNC V NNC NNC V NNC","example_id":"912"}
+{"lang_code":"ibo","generation":"NNP V SYM WH V NNC NNC SYM V SYM NNC NNC V SYM PRN V NNC PRN V NNC NNC PREP NNC NNC NNC NNC PREP NNC V NNC NNC SYM","example_id":"913"}
+{"lang_code":"ibo","generation":"CD NNC DEM V PREP NNC NNP V V NNC NNC SYM","example_id":"914"}
+{"lang_code":"ibo","generation":"CD V NNC PREP NNC V NNC PREP NNC DEM V NNC NNC SYM PREP NNC CJN PRN V NNC NNC SYM PRN V NNC NNC NNC V NNC V NNC V V V NNC SYM","example_id":"915"}
+{"lang_code":"ibo","generation":"CD V NNC PREP NNC SYM V SYM SYM PRN VAXPRN V NNC PRN SYM","example_id":"916"}
+{"lang_code":"ibo","generation":"NNC DEM V V NNC PREP NNC DEM NNC NNC NNC NNC","example_id":"917"}
+{"lang_code":"ibo","generation":"CD NNC V SYM PRN V PREP NNC SYM V NNC NNC NNC V NNC NNC NNC V PREP NNC V NNC NNC NNC NNC V PREP NNC V NNC NNC SYM","example_id":"918"}
+{"lang_code":"ibo","generation":"CD NNC V PREP NNC V V PRN V V ; V V NNC PRN V V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"919"}
+{"lang_code":"ibo","generation":"PREP NNC SYM NNC V NNC","example_id":"920"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC NNC V V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"921"}
+{"lang_code":"ibo","generation":"NNC NNC NNC CD V NNC PRN NNC DEM","example_id":"922"}
+{"lang_code":"ibo","generation":"PREP NNC VAX_XS NNC NNC VPERF_BPRN NNC NNC V V NNC PRN NNC NNC NNC","example_id":"923"}
+{"lang_code":"ibo","generation":"PRN NNC V NNC V","example_id":"924"}
+{"lang_code":"ibo","generation":"CD CJN NNC PRN V PRN NNC PREP NNC V PREP NNC V V NNC V V NNC PRN V PRN V V PRN V SYM NNC PRN V V PREP NNC V SYM NNC PRN V V NNC NNC NNC NNC","example_id":"925"}
+{"lang_code":"ibo","generation":"CD V V PRN SYM PREP NNC PRN V NNC PRN V V PRN V SYM","example_id":"926"}
+{"lang_code":"ibo","generation":"CD CJN NNP NNP PRN V V PRN V V PRN V PREP NNC SYM","example_id":"927"}
+{"lang_code":"ibo","generation":"NNC NNP CD","example_id":"928"}
+{"lang_code":"ibo","generation":"CD V NNC CJN PRN V NNC NNC NNC NNC NNC NNC V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"929"}
+{"lang_code":"ibo","generation":"NNC NNC NNC V V PREP NNC NNC PRN V","example_id":"930"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V NNC NNC SYM","example_id":"931"}
+{"lang_code":"ibo","generation":"CD PRN V SYM V NNC V NNC PREP NNC V NNC PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V NNC V V PRN V N","example_id":"932"}
+{"lang_code":"ibo","generation":"CD V NNC V NNC PREP NNC CJN PRN V NNC NNC CD NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"933"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PRN V NNC CJN V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V","example_id":"934"}
+{"lang_code":"ibo","generation":"CD NNC NNC PRN V PREP NNC V NNC NNC","example_id":"935"}
+{"lang_code":"ibo","generation":"CD PRN NNP V PRN SYM SYM V NNC PRN V V NNC NNC CJN PRN V NNC","example_id":"936"}
+{"lang_code":"ibo","generation":"CD V NNC NNC V V NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC","example_id":"937"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN V PRN CJN PRN V V NNC NNC V NNC NNC PREP NNC NNC V NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"938"}
+{"lang_code":"ibo","generation":"NNC NNP CD","example_id":"939"}
+{"lang_code":"ibo","generation":"PRN NNC V NNC NNC CD SYM","example_id":"940"}
+{"lang_code":"ibo","generation":"CD PREP NNC CJN PREP CD NNC NNC NNC NNC NNC NNC NNC NNC PRN V NNC PREP PRN SYM PRN V NNC PREP PRN V SYM PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"941"}
+{"lang_code":"ibo","generation":"CD NNC VPRN NNC SYM VAXPRN V NNC DEM PRN V V NNC","example_id":"942"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM NNC PRN V VPRF PRN V VPRF PRN V PREP NNC V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN V VPRF PRN","example_id":"943"}
+{"lang_code":"ibo","generation":"V NNC NNC PRN PREP NNC SYM","example_id":"944"}
+{"lang_code":"ibo","generation":"CD LTT V V CD CD PRN V V V PREP NNC V PREP NNC NNC SYM","example_id":"945"}
+{"lang_code":"ibo","generation":"CD V NNC V V NNC PRN NNC PREP NNC CJN V NNC NNC NNC V NNC NNC NNC V NNC NNC NNC V NNC NNC NNC V NNC NNC NNC PREP NNC NNC SYM","example_id":"946"}
+{"lang_code":"ibo","generation":"NNC NNC DEM PRN V VPRN PRN V V NNC PREP NNC NNC CJN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"947"}
+{"lang_code":"ibo","generation":"CD PREP NNC VPERF_BPRN NNC NNC PREP NNC VPERF_BPRN PRN VPERF NNC NNC SYM","example_id":"948"}
+{"lang_code":"ibo","generation":"CD PRN V V PRN SYM V V CJN NNC NNC NNC ADJ","example_id":"949"}
+{"lang_code":"ibo","generation":"CD SYM V NNC NNC PRN V V NNC V V PRN V PREP NNC CJN V V PREP NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V V NNC V","example_id":"950"}
+{"lang_code":"ibo","generation":"PRN V V NNC PRN V V NNC NNC CD","example_id":"951"}
+{"lang_code":"ibo","generation":"CD SYM","example_id":"952"}
+{"lang_code":"ibo","generation":"CD PREP NNC PRN VPRF PRN VPERF_XS NNC NNC V V NNC PRN V NNC NNC NNC NNC","example_id":"953"}
+{"lang_code":"ibo","generation":"CD NNC CD","example_id":"954"}
+{"lang_code":"ibo","generation":"CD V NNC V NNC PREP NNC DEM V V NNC PREP NNC DEM V V NNC V NNC NNC V V NNC V NNC NNC V NNC NNC NNC","example_id":"955"}
+{"lang_code":"ibo","generation":"CD PRN SYM NNC NNC NNC NNC VPERF PRN V V PREP NNC SYM PRN V V PRN V V PRN V V PRN V V PRN V V NNC NNC NNC NNC NNC NNC NNC","example_id":"956"}
+{"lang_code":"ibo","generation":"PRN V V NNC PREP NNC V V NNC V V NNC PREP NNC V V NNC","example_id":"957"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM PRN NNC NNC V NNC NNC NNC NNC V NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"958"}
+{"lang_code":"ibo","generation":"SYM V NNC PRN NNC V V PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V NNC PRN V V N","example_id":"959"}
+{"lang_code":"ibo","generation":"CD V PREP NNC V PRN SYM V V NNC CJN PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V","example_id":"960"}
+{"lang_code":"ibo","generation":"CD V SYM NNC V V V V NNC PREP NNC PREP NNC SYM V NNC NNC NNC V V NNC NNC V V NNC NNC V V NNC NNC V V NNC","example_id":"961"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC PRN V V NNC PRN NNC V V PRN V V V NNC PRN V V NNC NNC V NNC NNC V NNC NNC V NNC NNC V NNC NNC","example_id":"962"}
+{"lang_code":"ibo","generation":"NNC NNP CD","example_id":"963"}
+{"lang_code":"ibo","generation":"PREP NNC CJN PRN VAXPRN PREP NNC V V NNC V V NNC V V NNC V V NNC","example_id":"964"}
+{"lang_code":"ibo","generation":"PRN V NNC NNC V NNC PRN NNC","example_id":"965"}
+{"lang_code":"ibo","generation":"PRN PRN V V V V V V V V V V V V V V V V","example_id":"966"}
+{"lang_code":"ibo","generation":"PREP NNC CJN PRN NNC PRN V V NNC PREP NNC V V PREP NNC V V PREP NNC V V V NNC V V V NNC V V V NNC","example_id":"967"}
+{"lang_code":"ibo","generation":"CD ADJ NNC NNC QTF NNC QTF V PREP NNC PREP NNC V NNC NNC NNC NNC NNC V PREP NNC NNC NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"968"}
+{"lang_code":"ibo","generation":"NNC V NNC NNC PREP NNC V V NNC V NNC V V V NNC V NNC V NNC V NNC","example_id":"969"}
+{"lang_code":"ibo","generation":"CD V PREP NNC DEM NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"970"}
+{"lang_code":"ibo","generation":"NNC DEM V NNC V V V NNC NNC NNC ADJ","example_id":"971"}
+{"lang_code":"ibo","generation":"CD V V NNC DEM ADV PRN V V NNC PRN NNC PREP NNC CJN PRN V V PRN ; CJN PRN V V NNC NNC PREP NNC NNC SYM","example_id":"972"}
+{"lang_code":"ibo","generation":"CD PREP NNC SYM VWH PRN PRN V V PRN PREP NNC V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PRN V V PR","example_id":"973"}
+{"lang_code":"ibo","generation":"V SYM PRN V V NNC NNC V NNC PRN","example_id":"974"}
+{"lang_code":"ibo","generation":"CD V V V NNC V V NNC V NNC NNC NNC","example_id":"975"}
+{"lang_code":"ibo","generation":"CD PREP NNC NNC PRN V NNC NNC V V PRN SYM V V NNC V V PRN SYM","example_id":"976"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC V NNC NNC PRN V PREP NNC NNC SYM NNC V PREP NNC NNC NNC NNC SYM NNC V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC N","example_id":"977"}
+{"lang_code":"ibo","generation":"CD PRN V SYM NNC NNP V NNC DEM V NNC V SYM PRN V SYM SYM WH V NNC NNC SYM PRN V NNC NNC NNC SYM V V NNC V V","example_id":"978"}
+{"lang_code":"ibo","generation":"CD PREP NNC V NNC DEM V NNC NNC NNC V V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"979"}
+{"lang_code":"ibo","generation":"PRN V NNP SYM","example_id":"980"}
+{"lang_code":"ibo","generation":"PRN V NNC CJN PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"981"}
+{"lang_code":"ibo","generation":"NNC NNC NNC V NNC V V V PRN V","example_id":"982"}
+{"lang_code":"ibo","generation":"CD NNC DEM V NNC NNC NNC V NNC PRN V NNC PRN NNC CJN NNC PRN V NNC PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"983"}
+{"lang_code":"ibo","generation":"CD NNC NNP VPERF NNC DEM PRN V PRN SYM V V V V SYM","example_id":"984"}
+{"lang_code":"ibo","generation":"NNC V V V PREP NNC PRN NNC CD PREP NNC V V PREP NNC NNC NNC NNC","example_id":"985"}
+{"lang_code":"ibo","generation":"NNC NNC PRN V NNC V NNC PRN NNC V V PRN V NNC SYM PREP NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V N","example_id":"986"}
+{"lang_code":"ibo","generation":"CD PRN V SYM PRN V V NNC CJN V V NNC PRN NNC NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"987"}
+{"lang_code":"ibo","generation":"V V V NNC PRN V V NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"988"}
+{"lang_code":"ibo","generation":"CD NNC V V PRN V NNC NNC PRN V NNC PRN V NNC NNC V NNC NNC V NNC NNC NNC V NNC NNC NNC NNC NNC NNC V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"989"}
+{"lang_code":"ibo","generation":"CD SYM PRN VPERF_XS PREP NNC CJN PRN VPERF PRN VAX VPERF_XS NNC V VPRN NNC V NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"990"}
+{"lang_code":"ibo","generation":"CD PRN V PRN SYM V PRN V NNC CD CJN PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"991"}
+{"lang_code":"ibo","generation":"CD V SYM PRN NNC V NNC NNC NNC NNC NNC V V V PRN V SYM","example_id":"992"}
+{"lang_code":"ibo","generation":"CD NNC V SYM SYM V NNC CJN PRN V NNC PRN V NNC V NNC SYM PRN V PRN SYM SYM V PRN SYM SYM V PRN SYM","example_id":"993"}
+{"lang_code":"ibo","generation":"CD NNC V PRN NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"994"}
+{"lang_code":"ibo","generation":"CD CJN NNC V NNC V V CJN NNC V V NNC V NNC PREP NNC NNC DEM V V V","example_id":"995"}
+{"lang_code":"ibo","generation":"CD V V NNC NNC NNC SYM NNC NNC NNC PRN V NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC NNC","example_id":"996"}
+{"lang_code":"ibo","generation":"CD CJN NNC NNC NNC VPRF SYM SYM V SYM CD NNC PRN CJN V NNC SYM","example_id":"997"}
+{"lang_code":"ibo","generation":"CD PRN V V NNC V V NNC PREP NNC V NNC NNC PREP NNC NNC NNC NNC NNC NNC NNC NNC NNC SYM","example_id":"998"}
+{"lang_code":"ibo","generation":"CD V V NNC V NNC V V NNC V V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC V NNC","example_id":"999"}

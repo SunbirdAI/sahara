@@ -1,7 +1,16 @@
+#!/bin/bash
 
 model_id=Sunbird/Sunflower-Qwen3.5-9B
 provider=vllm
 cache_dir=/workspace/.cache
+
+# Parse -m flag
+while getopts "m:" flag; do
+  case "${flag}" in
+    m) model_id="${OPTARG}" ;;
+    *) echo "Usage: $0 [-m model_id]"; exit 1 ;;
+  esac
+done
 
 CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES="0,1,2,4" \
             python run_sahara_eval_colab_v1.py --provider $provider --model_id $model_id --tasks \
