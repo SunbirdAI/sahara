@@ -71,7 +71,7 @@ uv pip install vllm --torch-backend=auto
 Lastly, authenticate with the Hugging Face account that has access to the benchmark dataset and the model:
 
 ```bash
-huggingface-cli login
+hf auth login
 ```
 
 Paste your Hugging Face access token when prompted.
